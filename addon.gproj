@@ -1,0 +1,8 @@
+GameProject {
+ ID "hclmap"
+ GUID "64E1221891C49F19"
+ TITLE "hclmap"
+ Dependencies {
+  "596CB4A0AE84C08E" "58D0FB3206B6F859"
+ }
+}

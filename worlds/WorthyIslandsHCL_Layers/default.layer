@@ -1,0 +1,322 @@
+$grp GenericEntity : "{18982CB5D0D29247}Prefabs/Props/Civilian/BeerBottle_01_empty_brown.et" {
+ PoliceMarker {
+  components {
+   MapDescriptorComponent "{64E1050B361EEEE1}" {
+    DisplayName "Police"
+    MainType Hospital
+   }
+  }
+  coords 469.867 10.908 356.429
+ }
+ PeachFieldMarker {
+  components {
+   MapDescriptorComponent "{64E1050AD386123E}" {
+    DisplayName "Peach Field"
+    MainType Hospital
+   }
+  }
+  coords 615.89 4.501 274.656
+ }
+}
+SCR_DestructibleEntity : "{2591F1D52FD5DC65}PrefabLibrary/Walls/Net/NetFence_04_8m.et" {
+ coords 466.664 0.855 344.932
+ angleY 174.907
+}
+StaticModelEntity : "{65F8670B922F715B}Prefabs/Structures/BuildingParts/Doors/DoorSet_MetalGate_01_Small.et" {
+ coords 466.691 0.004 345
+ {
+  GenericEntity {
+   ID "5868A441B8622704"
+   components {
+    ClimbingDataComponent "{64E1050BAD52D8FB}" {
+     CanClimbOver 0
+    }
+   }
+   coords 0 0 0
+  }
+ }
+}
+$grp SCR_DestructibleEntity : "{B4C746BF99B922B0}PrefabLibrary/Walls/Net/NetFence_04_2m.et" {
+ {
+  coords 448.515 0.59 343.105
+  angleY -4.932
+ }
+ {
+  coords 446.575 0.048 342.872
+  angleY -6.459
+ }
+}
+$grp Tree : "{CEFEBF266E7040A9}Prefabs/Vegetation/Tree/t_prunus_domestica_2s.et" {
+ {
+  coords 659.867 -0.199 267.735
+  angleY -80.47
+ }
+ {
+  coords 647.425 0 266.753
+  angleY 73.815
+ }
+ {
+  coords 636.567 0 262.749
+  angleY 65.096
+ }
+ {
+  coords 626.538 0 264.452
+  angleY -80.981
+ }
+ {
+  coords 615.274 0 262.926
+  angleY 86.133
+ }
+ {
+  coords 632.328 1.043 276.705
+  angleY -68.404
+ }
+ {
+  coords 641.945 0.511 276.475
+  angleY -57.483
+ }
+ {
+  coords 615.716 -1.181 273.89
+  angleY 53.741
+ }
+ {
+  coords 654.329 0 277.784
+  angleY -87.974
+ }
+ {
+  coords 652.067 -0.06 286.857
+  angleY -45.249
+ }
+ {
+  coords 640.937 0 284.87
+  angleY 40.671
+ }
+ {
+  coords 627.551 0 283.623
+  angleY 65.636
+ }
+ {
+  coords 615.659 0 281.328
+  angleY -66.454
+ }
+}
+$grp StaticModelEntity : "{EF39F5715EF2323E}Prefabs/Structures/Walls/BarbedWire/BarbedTape_01/BarbedTape_01_Short.et" {
+ {
+  coords 446.237 2.194 342.657
+  angleY 73.302
+ }
+ {
+  coords 444.55 2.267 342.37
+  angleY 80.473
+ }
+ {
+  coords 442.792 2.473 342.09
+  angleY 80.473
+ }
+ {
+  coords 441.893 2.727 341.89
+  angleY 80.473
+ }
+ {
+  coords 441.183 2.592 342.634
+  angleY -7.74
+ }
+ {
+  coords 440.943 2.471 344.347
+  angleY 171.486
+ }
+ {
+  coords 440.844 2.456 345.62
+  angleY 171.486
+ }
+ {
+  coords 440.641 2.157 347.279
+  angleY 171.486
+ }
+ {
+  coords 440.468 1.996 349.034
+  angleY 171.486
+ }
+ {
+  coords 440.242 1.899 350.713
+  angleY 171.486
+ }
+ {
+  coords 440.047 1.842 352.513
+  angleY 171.486
+ }
+ {
+  coords 439.831 1.722 354.347
+  angleY 171.486
+ }
+ {
+  coords 439.645 1.679 355.928
+  angleY 171.486
+ }
+ {
+  coords 439.442 1.678 357.659
+  angleY 171.486
+ }
+ {
+  coords 439.198 1.676 359.595
+  angleY 171.486
+ }
+ {
+  coords 439.102 1.805 361.289
+  angleY 171.486
+ }
+ {
+  coords 438.788 1.675 362.975
+  angleY 171.486
+ }
+ {
+  coords 438.613 1.676 364.731
+  angleY 171.486
+ }
+ {
+  coords 438.403 1.714 366.257
+  angleY 171.486
+ }
+ {
+  coords 438.193 1.717 368.045
+  angleY 171.486
+ }
+ {
+  coords 438.021 1.825 369.562
+  angleY 171.486
+ }
+ {
+  coords 437.893 1.849 370.202
+  angleY 171.486
+ }
+ {
+  coords 438.803 1.905 370.923
+  angleY 81.119
+ }
+ {
+  coords 440.412 1.968 371.158
+  angleY 81.119
+ }
+ {
+  coords 442.131 2.005 371.322
+  angleY 81.119
+ }
+ {
+  coords 443.999 2 371.527
+  angleY 81.119
+ }
+ {
+  coords 445.809 2.143 371.884
+  angleY 81.119
+ }
+ {
+  coords 447.432 1.926 372.053
+  angleY 81.119
+ }
+ {
+  coords 449.243 1.849 372.291
+  angleY 81.119
+ }
+ {
+  coords 450.956 1.812 372.552
+  angleY 81.119
+ }
+ {
+  coords 452.688 1.771 372.754
+  angleY 81.119
+ }
+ {
+  coords 454.454 1.908 373.05
+  angleY 81.119
+ }
+ {
+  coords 455.958 1.91 373.276
+  angleY 81.119
+ }
+ {
+  coords 457.759 1.988 373.188
+  angleY 101.382
+ }
+ {
+  coords 459.147 1.988 372.8
+  angleY 101.382
+ }
+ {
+  coords 460.629 1.989 372.358
+  angleY 101.382
+ }
+ {
+  coords 462.163 1.983 371.935
+  angleY 101.382
+ }
+ {
+  coords 463.612 1.985 371.436
+  angleY 101.382
+ }
+ {
+  coords 465.204 1.894 370.929
+  angleY 101.382
+ }
+ {
+  coords 467.022 1.978 370.557
+  angleY 80.755
+ }
+ {
+  coords 468.643 1.773 370.664
+  angleY 80.755
+ }
+ {
+  coords 470.415 2.054 370.73
+  angleY 85.483
+ }
+ {
+  coords 472.031 1.963 370.691
+  angleY 85.483
+ }
+ {
+  coords 473.762 1.961 370.765
+  angleY 85.483
+ }
+ {
+  coords 475.515 1.901 370.858
+  angleY 85.483
+ }
+ {
+  coords 476.442 1.94 369.781
+  angleY 161.957
+ }
+ {
+  coords 476.842 1.984 368.333
+  angleY 161.957
+ }
+ {
+  coords 476.932 1.996 367.907
+  angleY 161.957
+ }
+}
+StaticModelEntity : "{F1E0197D444D3A19}Prefabs/Structures/BuildingParts/Doors/DoorSet_MetalGate_01_Long.et" {
+ coords 450.489 -0.092 343.373
+ angleX 0.004
+ angleY -5.534
+ angleZ -1.181
+ {
+  GenericEntity {
+   ID "5562AB0D5D0BDF19"
+   components {
+    ClimbingDataComponent "{64E1050BA8B02C3E}" {
+     CanClimbOver 0
+    }
+   }
+   coords 0 0 0
+  }
+  GenericEntity {
+   ID "5562AB0D5D0BDFFB"
+   components {
+    ClimbingDataComponent "{64E1050B8775A3FF}" {
+     CanClimbOver 0
+    }
+   }
+   coords 0 0 0
+  }
+ }
+}
