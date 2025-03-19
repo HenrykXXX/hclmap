@@ -16,6 +16,3 @@ GenericEntity : "{6258C73D3F60EDF9}Prefabs/Items/Food/HCL_Peach.et" {
 SCR_LoadoutManager : "{97EF4C1A41F63DDB}Prefabs/MP/Managers/Loadouts/LoadoutManager_USxUSSR.et" {
  coords 1658.461 2.695 1692.441
 }
-Tree : "{F422A8E1894722A1}Prefabs/Vegetation/Tree/HCL_t_prunus_domestica_2s.et" {
- coords 1651.358 0 1690.586
-}

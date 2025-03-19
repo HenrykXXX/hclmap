@@ -1,0 +1,29 @@
+Vehicle Mi8MT_armed_base1 : "{20C37D5090E4E0E6}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_armed_base.et" {
+ coords 1654.884 7.401 1744.773
+}
+Vehicle Ural4320_ammo1 : "{3336BE330C4F355B}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_ammo.et" {
+ coords 1651.833 4.395 1715.103
+}
+Vehicle S105_beige1 : "{54C3CC22DEBD57BE}Prefabs/Vehicles/Wheeled/S105/S105_beige.et" {
+ coords 1659.559 4.62 1729.512
+}
+Vehicle S105_darkred1 : "{8000A0F649FB4B0D}Prefabs/Vehicles/Wheeled/S105/S105_darkred.et" {
+ coords 1663.579 4.644 1733.834
+}
+Vehicle M923A1_ammo1 : "{92264FF932676C13}Prefabs/Vehicles/Wheeled/M923A1/M923A1_ammo.et" {
+ coords 1654.81 4.413 1724.007
+}
+GenericEntity : "{D3FCFE5148A78C43}Prefabs/MP/CombatOps/AmmoBoxes/ArsenalBox_USSR_CO.et" {
+ coords 1670.473 4.663 1738.322
+}
+SCR_SpawnPoint : "{F26BA0860D54B7DF}Prefabs/MP/Spawning/SpawnPoint_CIV.et" {
+ coords 1674.858 4.395 1735.063
+}
+$grp Tree : "{F422A8E1894722A1}Prefabs/Vegetation/Tree/HCL_t_prunus_domestica_2s.et" {
+ {
+  coords 1643.288 0 1697.676
+ }
+ {
+  coords 1648.02 0 1702.388
+ }
+}
