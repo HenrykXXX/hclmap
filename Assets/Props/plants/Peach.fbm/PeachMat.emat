@@ -1,0 +1,5 @@
+MatPBRBasic {
+ BCRMap "{7EA2DC3D6506E348}Assets/Props/plants/Peach.fbm/0.edds"
+ NormalPower 0
+ NMOMap "{3F315794074BC4FD}Assets/Props/plants/Peach.fbm/peach_n.edds"
+}
