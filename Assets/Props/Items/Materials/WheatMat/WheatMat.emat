@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{13D18A3E4C836964}Assets/Props/plants/Materials/WheatBag_lambert1_BaseColor.edds"
+ NMOMap "{E2508BDF4AA04854}Assets/Props/plants/Materials/WheatBag_lambert1_Normal.edds"
+}

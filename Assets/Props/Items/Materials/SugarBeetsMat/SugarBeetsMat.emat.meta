@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{5E14CD688FF73030}Assets/Props/Items/Materials/SugarBeetsMat/SugarBeetsMat.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}
