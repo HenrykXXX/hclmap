@@ -1,3 +1,6 @@
+Vehicle Ford_F700_Black1 : "{0272ED965724BF65}Prefabs/Vehicles/Wheeled/M923A1/91FordF700/Ford_F700_Black.et" {
+ coords 1642.139 8.706 1742.097
+}
 $grp GenericEntity : "{0323E92D9E6E9F4D}Prefabs/Items/Food/HCL_Food_Corn.et" {
  {
   coords 1677.499 5.302 1751.44
@@ -9,11 +12,20 @@ $grp GenericEntity : "{0323E92D9E6E9F4D}Prefabs/Items/Food/HCL_Food_Corn.et" {
   coords 1677.816 5.295 1751.476
  }
 }
+Vehicle FordExplorer_White1 : "{050A5A2F8BFAE0CB}Prefabs/Vehicles/Wheeled/M998/11FordExplorer/FordExplorer_White.et" {
+ coords 1610.508 3.452 1658.655
+}
 GenericEntity : "{06B68C58B72EAAC6}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium.et" {
  coords 1675.808 4.704 1745.184
 }
+Vehicle Silverado01_Armed_Black1 : "{137CBE855A05DFC8}Prefabs/Vehicles/Wheeled/M998/01Silverado/Silverado01_Armed_Black.et" {
+ coords 1618.98 3.689 1668.903
+}
 Vehicle UH1H_gunship1 : "{137DCF41459A89BE}Prefabs/Vehicles/Helicopters/UH1H/UH1H_gunship.et" {
  coords 1605.896 7.554 1724.946
+}
+Vehicle ArmoredTruck_Police_Black1 : "{15D8ED3ED37D91DA}Prefabs/Vehicles/Wheeled/M923A1/SWATtruck/ArmoredTruck_Police_Black.et" {
+ coords 1645.157 8.346 1756.667
 }
 $grp GenericEntity : "{16415CF017E77E29}Prefabs/Props/Military/Training/Obstacles/ObstacleRamp_01_platform.et" {
  {
@@ -25,6 +37,9 @@ $grp GenericEntity : "{16415CF017E77E29}Prefabs/Props/Military/Training/Obstacle
   angleY 35.367
  }
 }
+Vehicle DodgeChargerSRT_HellcatRedeye_Police_WhiteBlack1 : "{1B7059870D4E50C0}Prefabs/Vehicles/Wheeled/M998/22ChargerHellcat/DodgeChargerSRT_HellcatRedeye_Police_WhiteBlack.et" {
+ coords 1588.791 2.9 1623.477
+}
 Vehicle BTR70_Base1 : "{1C5FE7B7FF49BB8D}Prefabs/Vehicles/Wheeled/BTR70/BTR70_Base.et" {
  coords 1590.679 10.202 1695.642
 }
@@ -35,6 +50,9 @@ $grp Vehicle : "{20C37D5090E4E0E6}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_armed
  Mi8MT_armed_base2 {
   coords 1607.201 7.781 1751.068
  }
+}
+Vehicle DodgeChargerSRT_HellcatRedeye_Grey1 : "{24212081259E19CE}Prefabs/Vehicles/Wheeled/M998/22ChargerHellcat/DodgeChargerSRT_HellcatRedeye_Grey.et" {
+ coords 1585.579 2.918 1618.907
 }
 GenericEntity : "{2B78ED88DE5D5F65}PrefabsEditable/Auto/Props/Military/Training/Obstacles/E_ObstacleRamp_01_platform.et" {
  coords 1663.077 5.357 1739.288
@@ -55,6 +73,9 @@ $grp GenericEntity : "{38C8C7CF241E86AB}Prefabs/Items/Food/HCL_Food_Grape.et" {
   coords 1678.272 5.34 1751.539
   angleY -96.144
  }
+}
+Vehicle DodgeChargerSRT_HellcatRedeye_Police_BlackWhite1 : "{446F895FDCBA5F07}Prefabs/Vehicles/Wheeled/M998/22ChargerHellcat/DodgeChargerSRT_HellcatRedeye_Police_BlackWhite.et" {
+ coords 1591.837 2.898 1626.186
 }
 Vehicle S1203_base1 : "{4AE9D080927D3CB9}Prefabs/Vehicles/Wheeled/S1203/S1203_base.et" {
  coords 1622.382 3.725 1675.127
@@ -85,18 +106,33 @@ $grp GenericEntity : "{6258C73D3F60EDFA}Prefabs/Items/Food/HCL_Food_Peach.et" {
   coords 1677.563 5.32 1751.056
  }
 }
+Vehicle GolfCart_Blue1 : "{69A88485D475D1CE}Prefabs/Vehicles/Wheeled/M151A2/GolfCart_Blue.et" {
+ coords 1639.712 3.578 1688.533
+}
+Vehicle FordF150_Blue1 : "{6A14074068659B7F}Prefabs/Vehicles/Wheeled/M998/21FordF150/FordF150_Blue.et" {
+ coords 1594.576 2.889 1631.8
+}
+Vehicle DodgeCharger_06_Red1 : "{6A8135D831231B8C}Prefabs/Vehicles/Wheeled/M998/06Charger/DodgeCharger_06_Red.et" {
+ coords 1613.988 3.721 1663.893
+}
 GenericEntity : "{6CD34D6526429EEC}Prefabs/Props/Furniture/BarTable_Spawn.et" {
  coords 1672.664 4.466 1742.665
  angleY 37.898
 }
-GenericEntity : "{738C83539DF54F37}Prefabs/Items/Food/HCL_Food_RiseBag.et" {
+GenericEntity : "{738C83539DF54F37}Prefabs/Items/Food/HCL_Food_RiceBag.et" {
  coords 1676.152 4.651 1748.962
 }
 SCR_EditorManagerEntity : "{788933FFDC706A68}Prefabs/Editor/EditorManager.et" {
  coords 1674.337 5.338 1746.528
 }
+Vehicle NissanGTR_R35_Grey1 : "{7FAF29614DB5D1D4}Prefabs/Vehicles/Wheeled/M998/17R35GTR/NissanGTR_R35_Grey.et" {
+ coords 1600.509 3.019 1641.627
+}
 Vehicle S105_darkred1 : "{8000A0F649FB4B0D}Prefabs/Vehicles/Wheeled/S105/S105_darkred.et" {
  coords 1663.579 4.644 1733.834
+}
+Vehicle ChevyTahoe_Police_BlackWhite1 : "{8053858EC29C0161}Prefabs/Vehicles/Wheeled/M998/15ChevyTahoe/ChevyTahoe_Police_BlackWhite.et" {
+ coords 1606.404 3.249 1652.687
 }
 GenericEntity : "{83DE6F38856D8D94}Prefabs/Items/Other/HCL_Other_IronBar.et" {
  coords 1675.466 5.34 1747.537
@@ -181,14 +217,44 @@ $grp GenericEntity : "{95D4766BBE46F23D}Prefabs/Items/Equipment/Backpacks/Backpa
 Vehicle M923A1 : "{9A0D72816DFFDB7F}Prefabs/Vehicles/Wheeled/M923A1/M923A1.et" {
  coords 1627.307 4.157 1681.92
 }
+Vehicle JackalTruck_Armed_Black1 : "{9DEA731DFC8BFD02}Prefabs/Vehicles/Wheeled/Ural4320/JackalTruck_Armed_Black.et" {
+ coords 1566.308 2.466 1595.803
+}
+Vehicle ArmoredTruck_Black1 : "{A8BD5DECCD4B2634}Prefabs/Vehicles/Wheeled/M923A1/SWATtruck/ArmoredTruck_Black.et" {
+ coords 1639.581 8.508 1755.194
+}
+Vehicle GolfCart_Gold1 : "{B0C6D5EB888E4A3B}Prefabs/Vehicles/Wheeled/M151A2/GolfCart_Gold.et" {
+ coords 1642.042 3.593 1691.363
+}
+Vehicle GolfCart_Black1 : "{B12A0CE4D411999B}Prefabs/Vehicles/Wheeled/M151A2/GolfCart_Black.et" {
+ coords 1637.358 3.594 1685.656
+}
 Vehicle BTR1 : "{C012BB3488BEA0C2}Prefabs/Vehicles/Wheeled/BTR70/BTR70.et" {
  coords 1597.679 9.705 1691.586
+}
+Vehicle HondaIntegraTypeR_Black1 : "{C7D06854279E85BD}Prefabs/Vehicles/Wheeled/S105/95IntegraTypeR/HondaIntegraTypeR_Black.et" {
+ coords 1582.217 2.894 1613.42
+}
+Vehicle LamboAventador_GreyCarbon1 : "{CD31AFEFD877181B}Prefabs/Vehicles/Wheeled/M998/16Aventador/LamboAventador_GreyCarbon.et" {
+ coords 1602.595 3.086 1647.525
+}
+Vehicle JackalTruck_Armed1 : "{D3017288592F8976}Prefabs/Vehicles/Wheeled/Ural4320/JackalTruck_Armed.et" {
+ coords 1570.596 2.607 1600.396
 }
 GenericEntity : "{D3FCFE5148A78C43}Prefabs/MP/CombatOps/AmmoBoxes/ArsenalBox_USSR_CO.et" {
  coords 1670.473 4.663 1738.322
 }
 Vehicle UH1H_armed1 : "{DDDD9B51F1234DF3}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed.et" {
  coords 1618.621 7.923 1722.668
+}
+Vehicle HondaCivicTypeR_Blue1 : "{E6E4ECF060CB619B}Prefabs/Vehicles/Wheeled/S105/97CivicTypeR/HondaCivicTypeR_Blue.et" {
+ coords 1579.103 2.864 1609.77
+}
+Vehicle JackalTruck1 : "{E8BCD2BC5C2E3A5E}Prefabs/Vehicles/Wheeled/Ural4320/JackalTruck.et" {
+ coords 1574.655 2.707 1604.993
+}
+Vehicle GolfCart_Lime1 : "{ECAAD42A6E9D5D17}Prefabs/Vehicles/Wheeled/M151A2/GolfCart_Lime.et" {
+ coords 1645.001 3.508 1693.166
 }
 SCR_SpawnPoint : "{F26BA0860D54B7DF}Prefabs/MP/Spawning/SpawnPoint_CIV.et" {
  coords 1674.858 4.395 1735.063
@@ -210,4 +276,10 @@ $grp Tree : "{F422A8E1894722A1}Prefabs/Vegetation/Tree/HCL_t_prunus_domestica_2s
   }
   coords 1648.02 0 1702.388
  }
+}
+Vehicle JackalTruck_Black1 : "{F7DFC220F9EF1FC1}Prefabs/Vehicles/Wheeled/Ural4320/JackalTruck_Black.et" {
+ coords 1561.643 2.203 1590.18
+}
+Vehicle BMW_M2Competition_Grey1 : "{FF51AA91799488E6}Prefabs/Vehicles/Wheeled/M998/19M2Comp/BMW_M2Competition_Grey.et" {
+ coords 1597.808 2.947 1637.046
 }
