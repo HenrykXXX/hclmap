@@ -1,0 +1,7 @@
+MatPBRBasic {
+ SpecularMul 0
+ RoughnessScale 5
+ MetalnessScale 5
+ BCRMap "{3614D3349A70CD4B}Prefabs/Props/OresAndIngots/Silver/T_OreDeposit_SilverGreyRock_Albedo.edds"
+ NMOMap "{EECF9399149AE61B}Prefabs/Props/OresAndIngots/Silver/T_OreDeposit_Silver_Normal.edds"
+}

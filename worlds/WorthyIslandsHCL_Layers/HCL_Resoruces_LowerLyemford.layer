@@ -217,6 +217,9 @@ $grp Tree : "{28D8DC3FBD9FCBD8}Prefabs/ShopItems/HCL_Master_Peach.et" {
 GenericEntity : "{4967716693623EF4}Prefabs/Items/Ingots/HCL_Ingot_gold.et" {
  coords 1148.652 1.334 2185.298
 }
+GenericEntity : "{4C4DC886B0293BDC}Prefabs/Items/Ore/HCL_Ore_silver.et" {
+ coords 1148.233 1.344 2185.99
+}
 GenericEntity : "{4C53C4AE6B422B68}Prefabs/Items/Ore/HCL_Ore_gold.et" {
  coords 1148.214 1.339 2185.217
 }
@@ -303,6 +306,9 @@ Tree : "{7D7600CC7D974849}Prefabs/OreResource/HCL_Copper_Ore.et" {
 GenericEntity : "{88215577A1FFFF57}Prefabs/Items/Ore/HCL_Ore_Iron.et" {
  coords 1148.213 1.338 2183.599
 }
+GenericEntity : "{8C019FF254B49739}Prefabs/Items/Ingots/HCL_Ingot_silver.et" {
+ coords 1148.591 1.343 2185.93
+}
 GenericEntity : "{8D15E0BF59DFEACB}Prefabs/Items/Ingots/HCL_Ingot_Iron.et" {
  coords 1148.874 1.331 2183.614
 }
@@ -322,6 +328,10 @@ Tree : "{A9AA98C6D5D06E68}Prefabs/OreResource/HCL_gold_Ore.et" {
 }
 GenericEntity : "{C4DA771017CEBA59}Prefabs/Items/Ingots/HCL_Ingot_copper.et" {
  coords 1148.836 1.331 2184.461
+}
+Tree : "{CAC42BF013F18CB3}Prefabs/OreResource/HCL_silver_Ore.et" {
+ coords 1147.454 0 2186.099
+ "Melee multiplier" -77.6
 }
 Tree : "{D7DE2249F2945B87}Prefabs/OreResource/HCL_Iron_Ore.et" {
  coords 1147.382 -0.01 2183.549
