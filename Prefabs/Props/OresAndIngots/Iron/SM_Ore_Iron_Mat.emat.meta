@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{46551A2D84F9C4D8}Prefabs/Props/OresAndIngots/SM_Ore_Iron_Mat.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

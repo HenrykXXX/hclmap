@@ -1,0 +1,8 @@
+MatPBRBasic {
+ SpecularMul 5
+ RoughnessScale 0.179
+ MetalnessScale 0.949
+ CavityFromAO 0
+ BCRMap "{5BB25B5DEDA0E8E2}Prefabs/Props/OresAndIngots/T_Ore_Iron_Albedo.edds"
+ NMOMap "{32D5F64AF7498A25}Prefabs/Props/OresAndIngots/T_Ore_Iron_Normal.edds"
+}

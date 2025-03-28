@@ -1,18 +1,15 @@
 SCR_BaseGameMode GameMode_Plain2 : "{1B76F75A3175E85C}Prefabs/MP/Modes/Plain/GameMode_Plain.et" {
- coords 1661.257 13.386 1667.966
+ coords 1203.804 4.765 2104.725
 }
 SCR_FactionManager FactionManager_USxUSSR1 : "{589540B35EBA8CDC}Prefabs/MP/Managers/Factions/FactionManager_USxUSSR.et" {
- coords 1655.059 2.764 1690.688
+ coords 1207.934 4.458 2112.706
 }
 SCR_SpawnPoint : "{4FEA25583D0975F7}Prefabs/MP/Spawning/SpawnPoint_USSR.et" {
- coords 1656.175 2.751 1691.475
+ coords 1198.485 2.174 2105.626
 }
 SCR_SpawnPoint : "{5A2220DD0C16958B}Prefabs/MP/Spawning/SpawnPoint_US.et" {
- coords 1656.175 2.751 1691.475
-}
-GenericEntity : "{6258C73D3F60EDF9}Prefabs/Items/Food/HCL_Peach.et" {
- coords 1652.349 2.908 1690.695
+ coords 1201.464 2.193 2103.988
 }
 SCR_LoadoutManager : "{97EF4C1A41F63DDB}Prefabs/MP/Managers/Loadouts/LoadoutManager_USxUSSR.et" {
- coords 1658.461 2.695 1692.441
+ coords 1205.354 2.418 2104.963
 }

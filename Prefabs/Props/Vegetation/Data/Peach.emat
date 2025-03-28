@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{9AE2DB64B8A10B36}Prefabs/Props/Vegetation/Peach_BaseColor.edds"
+ NMOMap "{C46279DFDF561E20}Prefabs/Props/Vegetation/Peach_Normal.edds"
+}

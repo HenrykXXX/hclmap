@@ -1,0 +1,310 @@
+$grp GenericEntity {
+ Shop {
+  components {
+   MapDescriptorComponent "{64F910CF1C835145}" {
+    DisplayName "Shop"
+    MainType "Name Generic"
+   }
+  }
+  coords 1151.952 2.381 2203.948
+ }
+ CarShop {
+  components {
+   MapDescriptorComponent "{64F910CF1C835145}" {
+    DisplayName "Car shop"
+    MainType "Name Generic"
+   }
+  }
+  coords 1137.287 3.062 2276.725
+ }
+}
+$grp LightEntity {
+ {
+  coords 1157.923 5.772 2201.347
+  scale 10.2
+  LV 6.61
+  Radius 6.91
+  NearPlane 2
+  LensFlareScale 0
+ }
+ {
+  coords 1158.044 5.809 2205.84
+  scale 10.2
+  LV 6.61
+  Radius 6.91
+  NearPlane 2
+  LensFlareScale 0
+ }
+ {
+  coords 1152.751 5.809 2205.589
+  scale 10.2
+  LV 6.61
+  Radius 6.91
+  NearPlane 2
+  LensFlareScale 0
+ }
+ {
+  coords 1152.626 5.809 2201.071
+  scale 10.2
+  LV 6.61
+  Radius 6.91
+  NearPlane 2
+  LensFlareScale 0
+ }
+ {
+  coords 1152.796 5.809 2196.773
+  scale 10.2
+  LV 6.61
+  Radius 6.91
+  NearPlane 2
+  LensFlareScale 0
+ }
+ {
+  coords 1158.096 5.809 2197.007
+  scale 10.2
+  LV 6.61
+  Radius 6.91
+  NearPlane 2
+  LensFlareScale 0
+ }
+ {
+  coords 1145.998 5.809 2196.377
+  scale 10.2
+  LV 6.61
+  Radius 6.91
+  NearPlane 2
+  LensFlareScale 0
+ }
+ {
+  coords 1150.239 5.894 2203.043
+  scale 10.2
+  LV 6.61
+  Radius 6.91
+  NearPlane 2
+  LensFlareScale 0
+ }
+}
+GenericEntity : "{06B68C58B72EAAC6}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium.et" {
+ coords 673.771 2.404 2281.83
+}
+$grp Tree : "{28D8DC3FBD9FCBD8}Prefabs/ShopItems/HCL_Master_Peach.et" {
+ {
+  coords 1156.9 1.569 2198.832
+  angleY -25.782
+ }
+ {
+  coords 1157.018 1.571 2198.844
+  angleY -25.054
+ }
+ {
+  coords 1156.891 1.569 2198.72
+  angleY 28.191
+ }
+ {
+  coords 1156.99 1.571 2198.759
+  angleY -41.282
+ }
+ {
+  coords 1156.966 1.57 2198.646
+  angleY -120.804
+ }
+ {
+  coords 1157.076 1.572 2198.682
+  angleY -25.054
+ }
+ {
+  coords 1157.102 1.572 2198.788
+  angleX -12.158
+  angleY -25.054
+ }
+ {
+  coords 1157.047 1.572 2198.587
+  angleY -25.054
+ }
+ {
+  coords 1157.167 1.573 2198.616
+  angleY 18.775
+ }
+ {
+  coords 1157.184 1.574 2198.725
+  angleX -8.646
+  angleY -82.121
+  angleZ 12.497
+ }
+ {
+  coords 1157.209 1.574 2198.844
+  angleX -29.078
+  angleY 0.028
+ }
+ {
+  coords 1157.288 1.576 2198.77
+  angleX -9.955
+  angleY 9.31
+ }
+ {
+  coords 1157.266 1.576 2198.657
+  angleY -26.86
+ }
+ {
+  coords 1157.363 1.577 2198.593
+  angleY -80.536
+ }
+ {
+  coords 1156.83 1.573 2199.234
+  angleY 89.283
+ }
+ {
+  coords 1157.328 1.582 2199.08
+  angleY 144.038
+ }
+ {
+  coords 1157.214 1.58 2199.048
+  angleY 144.766
+ }
+ {
+  coords 1157.317 1.581 2199.193
+  angleY -161.99
+ }
+ {
+  coords 1157.226 1.58 2199.136
+  angleY 128.537
+ }
+ {
+  coords 1157.23 1.58 2199.251
+  angleY 49.016
+ }
+ {
+  coords 1157.128 1.578 2199.197
+  angleY 144.766
+ }
+ {
+  coords 1157.121 1.579 2199.088
+  angleX -12.158
+  angleY 144.766
+ }
+ {
+  coords 1157.14 1.579 2199.296
+  angleY 144.766
+ }
+ {
+  coords 1157.027 1.576 2199.246
+  angleY -171.405
+ }
+ {
+  coords 1157.03 1.578 2199.136
+  angleX -8.646
+  angleY 87.698
+  angleZ 12.497
+ }
+ {
+  coords 1157.026 1.577 2199.014
+  angleX -29.078
+  angleY 169.848
+ }
+ {
+  coords 1156.935 1.576 2199.073
+  angleX -9.955
+  angleY 179.13
+ }
+ {
+  coords 1156.937 1.577 2199.188
+  angleY 142.96
+ }
+}
+$grp Tree : "{6F8F3916B3171A19}Prefabs/ShopItems/HCL_Master_WaterBottle.et" {
+ {
+  coords 1158.533 2.2 2202.142
+ }
+ {
+  coords 1158.339 2.197 2202.132
+ }
+ {
+  coords 1158.079 2.193 2202.114
+ }
+ {
+  coords 1157.845 2.19 2202.1
+ }
+ {
+  coords 1157.627 2.19 2202.131
+ }
+ {
+  coords 1157.306 2.191 2202.06
+ }
+ {
+  coords 1157.048 2.191 2202.08
+ }
+ {
+  coords 1156.78 2.191 2202.068
+ }
+ {
+  coords 1156.498 2.191 2202.063
+ }
+ {
+  coords 1156.05 2.191 2202.033
+ }
+ {
+  coords 1155.815 2.189 2202.003
+ }
+ {
+  coords 1155.523 2.184 2202.026
+ }
+ {
+  coords 1155.181 2.179 2201.958
+ }
+ {
+  coords 1154.877 2.174 2201.948
+ }
+ {
+  coords 1154.648 2.171 2201.966
+ }
+ {
+  coords 1154.406 2.167 2201.933
+ }
+ {
+  coords 1154.093 2.162 2201.954
+ }
+ {
+  coords 1154.052 1.806 2201.834
+ }
+ {
+  coords 1154.281 1.81 2201.867
+ }
+ {
+  coords 1154.601 1.815 2201.902
+ }
+ {
+  coords 1155.023 1.821 2201.94
+ }
+ {
+  coords 1155.384 1.827 2201.931
+ }
+ {
+  coords 1155.613 1.831 2201.929
+ }
+ {
+  coords 1155.922 1.835 2201.972
+ }
+ {
+  coords 1156.11 1.837 2201.975
+ }
+}
+GenericEntity : "{88215577A1FFFF57}Prefabs/Items/Ore/HCL_Ore_Iron.et" {
+ coords 1148.213 1.338 2183.599
+}
+GenericEntity : "{8D15E0BF59DFEACB}Prefabs/Items/Ingots/HCL_Ingot_Iron.et" {
+ coords 1148.874 1.331 2183.614
+}
+$grp GenericEntity : "{95D4766BBE46F23D}Prefabs/Items/Equipment/Backpacks/Backpack_IIFS_FieldPack.et" {
+ {
+  coords 674.527 2.411 2282.151
+ }
+ {
+  coords 674.199 2.377 2281.079
+ }
+ {
+  coords 672.426 2.405 2281.318
+ }
+}
+Tree : "{D7DE2249F2945B87}Prefabs/OreResource/HCL_Iron_Ore.et" {
+ coords 1147.382 -0.01 2183.549
+}
