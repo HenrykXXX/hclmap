@@ -1,4 +1,0 @@
-MatPBRBasic {
- BCRMap "{A89C7354E59928CD}Assets/Props/Items/Materials/GrapeMat/grape_highpoly_wood_grape_BaseColor.edds"
- NMOMap "{53A0426593887241}Assets/Props/Items/Materials/GrapeMat/grape_highpoly_wood_grape_Normal.edds"
-}

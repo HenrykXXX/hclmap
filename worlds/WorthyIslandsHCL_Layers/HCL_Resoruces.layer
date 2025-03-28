@@ -115,10 +115,6 @@ Vehicle FordF150_Blue1 : "{6A14074068659B7F}Prefabs/Vehicles/Wheeled/M998/21Ford
 Vehicle DodgeCharger_06_Red1 : "{6A8135D831231B8C}Prefabs/Vehicles/Wheeled/M998/06Charger/DodgeCharger_06_Red.et" {
  coords 1613.988 3.721 1663.893
 }
-GenericEntity : "{6CD34D6526429EEC}Prefabs/Props/Furniture/BarTable_Spawn.et" {
- coords 1672.664 4.466 1742.665
- angleY 37.898
-}
 GenericEntity : "{738C83539DF54F37}Prefabs/Items/Food/HCL_Food_RiceBag.et" {
  coords 1676.152 4.651 1748.962
 }
