@@ -214,6 +214,12 @@ $grp Tree : "{28D8DC3FBD9FCBD8}Prefabs/ShopItems/HCL_Master_Peach.et" {
   angleY 142.96
  }
 }
+GenericEntity : "{4967716693623EF4}Prefabs/Items/Ingots/HCL_Ingot_gold.et" {
+ coords 1148.652 1.334 2185.298
+}
+GenericEntity : "{4C53C4AE6B422B68}Prefabs/Items/Ore/HCL_Ore_gold.et" {
+ coords 1148.214 1.339 2185.217
+}
 $grp Tree : "{6F8F3916B3171A19}Prefabs/ShopItems/HCL_Master_WaterBottle.et" {
  {
   coords 1158.533 2.2 2202.142
@@ -292,7 +298,7 @@ $grp Tree : "{6F8F3916B3171A19}Prefabs/ShopItems/HCL_Master_WaterBottle.et" {
  }
 }
 Tree : "{7D7600CC7D974849}Prefabs/OreResource/HCL_Copper_Ore.et" {
- coords 1147.515 -0 2184.458
+ coords 1147.515 0 2184.458
 }
 GenericEntity : "{88215577A1FFFF57}Prefabs/Items/Ore/HCL_Ore_Iron.et" {
  coords 1148.213 1.338 2183.599
@@ -310,6 +316,9 @@ $grp GenericEntity : "{95D4766BBE46F23D}Prefabs/Items/Equipment/Backpacks/Backpa
  {
   coords 672.426 2.405 2281.318
  }
+}
+Tree : "{A9AA98C6D5D06E68}Prefabs/OreResource/HCL_gold_Ore.et" {
+ coords 1147.521 0 2185.274
 }
 GenericEntity : "{C4DA771017CEBA59}Prefabs/Items/Ingots/HCL_Ingot_copper.et" {
  coords 1148.836 1.331 2184.461

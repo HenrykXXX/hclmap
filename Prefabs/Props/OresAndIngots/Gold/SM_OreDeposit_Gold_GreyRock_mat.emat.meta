@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{050CF6426B5B87C6}Prefabs/Props/OresAndIngots/Gold/SM_OreDeposit_Gold_GreyRock_mat.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

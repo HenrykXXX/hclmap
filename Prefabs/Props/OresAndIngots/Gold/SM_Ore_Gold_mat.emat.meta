@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{87B58EA72AC8714C}Prefabs/Props/OresAndIngots/Gold/SM_Ore_Gold_mat.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

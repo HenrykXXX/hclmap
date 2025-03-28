@@ -1,0 +1,8 @@
+MatPBRBasic {
+ SpecularMul 5
+ RoughnessScale 0.179
+ MetalnessScale 0.949
+ CavityFromAO 0
+ BCRMap "{5FD83F44EF783F1D}Prefabs/Props/OresAndIngots/Gold/T_Ingot_Gold_Albedo.edds"
+ NMOMap "{36BF9253F5915DDA}Prefabs/Props/OresAndIngots/Gold/T_Ingot_Gold_Normal.edds"
+}

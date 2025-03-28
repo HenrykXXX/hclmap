@@ -1,0 +1,7 @@
+MatPBRBasic {
+ SpecularMul 0
+ RoughnessScale 5
+ MetalnessScale 5
+ BCRMap "{67EBAF6CD4BF6701}Prefabs/Props/OresAndIngots/Gold/T_OreDeposit_GoldGreyRock_Albedo.edds"
+ NMOMap "{F415B235CFA521D0}Prefabs/Props/OresAndIngots/Gold/T_OreDeposit_Gold_Normal.edds"
+}
