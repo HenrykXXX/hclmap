@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{458D1F32E985331A}Prefabs/Props/OresAndIngots/Copper/SM_OreDeposit_Copper_GreyRock_mat.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

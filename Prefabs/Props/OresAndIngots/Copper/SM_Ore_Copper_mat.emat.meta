@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{DAFA6DC063706042}Prefabs/Props/OresAndIngots/Copper/SM_Ore_Copper_mat.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

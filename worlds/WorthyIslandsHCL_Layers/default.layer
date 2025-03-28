@@ -46,7 +46,7 @@ $grp SCR_DestructibleEntity : "{B4C746BF99B922B0}PrefabLibrary/Walls/Net/NetFenc
   angleY -6.459
  }
 }
-$grp Tree : "{CEFEBF266E7040A9}Prefabs/Vegetation/Tree/t_prunus_domestica_2s.et" {
+$grp Tree : "{CEFEBF266E7040A9}Prefabs/Vegetation/Tree/t_prunus_domestica/t_prunus_domestica_2s.et" {
  {
   coords 659.867 -0.199 267.735
   angleY -80.47

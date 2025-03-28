@@ -1,0 +1,7 @@
+MatPBRBasic {
+ SpecularMul 0
+ RoughnessScale 5
+ MetalnessScale 5
+ BCRMap "{CAF760F296C96ED6}Prefabs/Props/OresAndIngots/Copper/T_OreDeposit_CopperGreyRock_Albedo.edds"
+ NMOMap "{766C75BDC0635C0D}Prefabs/Props/OresAndIngots/Copper/T_OreDeposit_Copper_Normal.edds"
+}

@@ -1,0 +1,8 @@
+MatPBRBasic {
+ SpecularMul 5
+ RoughnessScale 0.179
+ MetalnessScale 0.949
+ CavityFromAO 0
+ BCRMap "{5FA7A2BEC6D0348A}Prefabs/Props/OresAndIngots/Copper/T_Ingot_Copper_Albedo.edds"
+ NMOMap "{36C00FA9DC39564D}Prefabs/Props/OresAndIngots/Copper/T_Ingot_Copper_Normal.edds"
+}

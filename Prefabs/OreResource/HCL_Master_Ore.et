@@ -6,7 +6,7 @@ Tree : "{388AE316D09D0680}Prefabs/Vegetation/Core/Tree_Base.et" {
    m_sResourceName "Peach"
   }
   MeshObject "{64F910C229842054}" {
-   Object "{49B5377215F41437}Prefabs/Props/OresAndIngots/SM_OreDeposit_Iron_DarkRock.xob"
+   Object "{563D1071CFC18436}Prefabs/Props/OresAndIngots/Iron/SM_OreDeposit_Iron_GreyRock.xob"
    LODFactors {
     200 20 15 10 4
    }

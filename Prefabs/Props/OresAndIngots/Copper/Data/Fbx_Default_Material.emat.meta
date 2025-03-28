@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{1A53A11A6E985174}Prefabs/Props/OresAndIngots/Copper/Data/Fbx_Default_Material.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}
