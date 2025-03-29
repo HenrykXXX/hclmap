@@ -37,6 +37,7 @@ Tree : "{388AE316D09D0680}Prefabs/Vegetation/Core/Tree_Base.et" {
   }
  }
  coords 937.976 37.626 2823.277
+ Enabled 0
  SoundType Leafy
  m_iFoliageHeight 3
 }

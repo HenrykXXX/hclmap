@@ -1,0 +1,33 @@
+GenericEntity UraniumProcessingAndPurification {
+ components {
+  MapDescriptorComponent "{64F910CF1C835145}" {
+   DisplayName "Uranium processing and purification"
+   MainType "Name Generic"
+  }
+ }
+ coords 1232.135 1.313 3049.738
+}
+$grp GenericEntity : "{94D35001FDC95A94}Prefabs/Vehicles/Wheeled/M923A1/SingleYellowcake.et" {
+ {
+  coords 1227.888 1.313 3042.725
+ }
+ {
+  coords 1227.104 1.313 3043.077
+  angleY 116.838
+ }
+ {
+  coords 1227.98 1.313 3043.64
+  angleY -106.511
+ }
+ {
+  coords 1227.184 1.313 3043.828
+  angleY 11.198
+ }
+ {
+  coords 1226.691 1.64 3043.399
+  angleZ -89.445
+ }
+}
+GenericEntity : "{D9DE0E379939B689}Prefabs/Vehicles/Wheeled/M923A1/MultiYellowcake.et" {
+ coords 1232.222 1.289 3047.516
+}

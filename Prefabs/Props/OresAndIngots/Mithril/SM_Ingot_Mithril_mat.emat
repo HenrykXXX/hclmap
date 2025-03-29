@@ -1,0 +1,8 @@
+MatPBRBasic {
+ SpecularMul 5
+ RoughnessScale 0.179
+ MetalnessScale 0.949
+ CavityFromAO 0
+ BCRMap "{FEEC9B2663FA91B7}Prefabs/Props/OresAndIngots/Mithril/T_Ingot_Mithril_Albedo.edds"
+ NMOMap "{978B36317913F370}Prefabs/Props/OresAndIngots/Mithril/T_Ingot_Mithril_Normal.edds"
+}

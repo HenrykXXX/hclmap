@@ -1,0 +1,25 @@
+GenericEntity UraniumEnrichment {
+ components {
+  MapDescriptorComponent "{64F910CF1C835145}" {
+   DisplayName "Uranium enrichment"
+   MainType "Name Generic"
+  }
+ }
+ coords 2645.31 3.074 168.797
+}
+GenericEntity : "{16F04910FBEAC016}Prefabs/Vehicles/Wheeled/M923A1/MultiEnrichedUF6.et" {
+ coords 2649.783 3.074 170.347
+}
+$grp GenericEntity : "{612ACA243386D5AB}Prefabs/Vehicles/Wheeled/M923A1/EnrichedUF6.et" {
+ {
+  coords 2644.509 3.074 167.545
+ }
+ {
+  coords 2643.48 3.074 167.509
+  angleY 51.714
+ }
+ {
+  coords 2644.181 3.074 168.39
+  angleY -81.73
+ }
+}

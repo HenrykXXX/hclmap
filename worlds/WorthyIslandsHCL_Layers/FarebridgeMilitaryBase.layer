@@ -1,0 +1,46 @@
+GenericEntity UO2 {
+ components {
+  MapDescriptorComponent "{64F910CF1C835145}" {
+   DisplayName "Converting enriched uranium into powder"
+   MainType "Name Generic"
+  }
+ }
+ coords 965.021 60.378 1323.955
+}
+$grp GenericEntity : "{0184BE4DCEC50670}Prefabs/Vehicles/Wheeled/M923A1/UO2Barrel.et" {
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Materials {
+     MaterialAssignClass "{64FB1CFF5239D2B8}" {
+      SourceMaterial "BarrelTextMat"
+      AssignedMaterial "{73C6F79D29AF9F67}Prefabs/Vehicles/Wheeled/M923A1/Barrel/Data/UO2Mat.emat"
+     }
+    }
+   }
+  }
+  coords 962.653 60.378 1325.559
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Materials {
+     MaterialAssignClass "{64FB1CFF5239D2B8}" {
+      SourceMaterial "BarrelTextMat"
+      AssignedMaterial "{73C6F79D29AF9F67}Prefabs/Vehicles/Wheeled/M923A1/Barrel/Data/UO2Mat.emat"
+     }
+    }
+   }
+  }
+  coords 963.151 60.378 1324.839
+  angleY -55.796
+ }
+ {
+  coords 963.523 60.378 1325.506
+  angleY -73.712
+ }
+}
+GenericEntity : "{8FE261706082D696}Prefabs/Vehicles/Wheeled/M923A1/MultiUO2.et" {
+ coords 966.246 60.347 1322.454
+ angleY 45.758
+}

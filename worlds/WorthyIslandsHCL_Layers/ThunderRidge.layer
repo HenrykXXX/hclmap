@@ -1,0 +1,168 @@
+GenericEntity ZirconiumMine {
+ components {
+  MapDescriptorComponent "{64F910CF1C835145}" {
+   DisplayName "Zirconium mine"
+   MainType "Name Generic"
+  }
+ }
+ coords 1042.214 73.01 2574.663
+}
+$grp Vehicle : "{3446796595540715}Prefabs/Vehicles/Wheeled/M923A1/M923A1_Cargo.et" {
+ M923A1_Cargo1 {
+  components {
+   AttachmentSlotComponent "{64FB0C955FCE45A8}" {
+    AttachmentSlot InventoryStorageSlot FuelRods {
+     Prefab "{D9DE0E379939B689}Prefabs/Vehicles/Wheeled/M923A1/MultiYellowcake.et"
+    }
+   }
+  }
+  coords 1625.103 2 2970.174
+ }
+ M923A1_Cargo2 {
+  components {
+   AttachmentSlotComponent "{64FB0C955FCE45A8}" {
+    AttachmentSlot InventoryStorageSlot FuelRods {
+     Prefab "{94D35001FDC95A94}Prefabs/Vehicles/Wheeled/M923A1/YellowcakeBarrel.et"
+    }
+   }
+  }
+  coords 1620.579 2 2970.302
+ }
+}
+$grp Tree : "{86BF87FA94FAB72C}Prefabs/OreResource/HCL_Mithrii_Ore.et" {
+ {
+  coords 1035.276 0 2577.826
+  angleY 68.59
+ }
+ {
+  coords 1034.595 0 2579.636
+  angleY -113.621
+ }
+ {
+  coords 1036.14 0 2580.708
+  angleY -65.751
+ }
+ {
+  coords 1036.249 0 2578.761
+  angleY -63.049
+ }
+ {
+  coords 1037.066 0 2577.09
+  angleY -172.994
+ }
+ {
+  coords 1038.808 0 2577.341
+  angleY -72.658
+ }
+ {
+  coords 1037.456 0 2578.334
+  angleY -163.71
+ }
+ {
+  coords 1037.327 0 2579.774
+  angleY 51.206
+ }
+ {
+  coords 1039.17 0 2579.08
+  angleY 104.094
+ }
+ {
+  coords 1038.367 0 2578.171
+  angleY 40.491
+ }
+ {
+  coords 1038.275 0 2580.231
+  angleY -77.405
+ }
+ {
+  coords 1040.078 0 2577.343
+  angleY -108.215
+ }
+ {
+  coords 1039.819 0 2578.173
+  angleY 153.29
+ }
+ {
+  coords 1041.057 0 2578.839
+  angleY -93.241
+ }
+ {
+  coords 1041.475 0 2577.751
+  angleY -145.54
+ }
+ {
+  coords 1040.162 0 2579.73
+  angleY -156.751
+ }
+ {
+  coords 1039.546 0 2580.65
+  angleY 67.461
+ }
+ {
+  coords 1042.063 0 2580.222
+  angleY -117.611
+ }
+ {
+  coords 1042.811 -0 2578.192
+ }
+ {
+  coords 1042.27 0 2578.728
+  angleY -29.19
+ }
+ {
+  coords 1043.227 0 2580.283
+  angleY 59.266
+ }
+ {
+  coords 1044.057 0 2579.106
+  angleY 93.553
+ }
+ {
+  coords 1044.417 -0 2577.563
+  angleY 37.818
+ }
+ {
+  coords 1045.717 0 2579.154
+  angleY -113.926
+ }
+ {
+  coords 1045.033 -0 2580.398
+  angleY 78.078
+ }
+ {
+  coords 1045.995 0 2581.516
+  angleY 66.338
+ }
+ {
+  coords 1046.882 -0 2580.59
+  angleY -35.18
+ }
+ {
+  coords 1046.816 -0 2578.84
+  angleY -105.375
+ }
+ {
+  coords 1049.059 0 2579.469
+  angleY 130.864
+ }
+ {
+  coords 1048.656 0 2580.338
+  angleY 153.77
+ }
+ {
+  coords 1051.796 0 2580.531
+  angleY 51.63
+ }
+ {
+  coords 1051.227 0 2579.691
+  angleY -110.389
+ }
+ {
+  coords 1034.254 -0 2581.073
+  angleY 55.162
+ }
+ {
+  coords 1033.396 -0 2581.603
+  angleY -96.198
+ }
+}
