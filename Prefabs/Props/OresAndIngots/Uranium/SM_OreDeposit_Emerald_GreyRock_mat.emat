@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{A6E77632927A9D5E}Prefabs/Props/OresAndIngots/Uranium/T_OreDeposit_EmeraldGreyRock_Albedo.edds"
+ NMOMap "{3BCF85A120304DEC}Prefabs/Props/OresAndIngots/Uranium/T_OreDeposit_Emerald_Normal.edds"
+}

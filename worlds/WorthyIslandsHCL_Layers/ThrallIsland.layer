@@ -1,0 +1,45 @@
+GenericEntity UraniumPellets {
+ components {
+  MapDescriptorComponent "{64F910CF1C835145}" {
+   DisplayName "Pressing powder into uranium pellets"
+   MainType "Name Generic"
+  }
+ }
+ coords 2588.629 25.971 1758.14
+}
+$grp Vehicle : "{3446796595540715}Prefabs/Vehicles/Wheeled/M923A1/M923A1_Cargo.et" {
+ M923A1_Cargo3 {
+  components {
+   AttachmentSlotComponent "{64FB0C955FCE45A8}" {
+    AttachmentSlot InventoryStorageSlot FuelRods {
+     Prefab "{5ED75A8D67104F36}Prefabs/Vehicles/Wheeled/M923A1/UraniumPelletsCrate.et"
+    }
+   }
+  }
+  coords 2582.832 27.037 1762.64
+ }
+ M923A1_Cargo4 {
+  components {
+   AttachmentSlotComponent "{64FB0C955FCE45A8}" {
+    AttachmentSlot InventoryStorageSlot FuelRods {
+     Prefab "{262EBA9EF431A07D}Prefabs/Vehicles/Wheeled/M923A1/MultiUraniumPelletsCrate.et"
+    }
+   }
+  }
+  coords 2588.171 27.729 1766.643
+ }
+}
+$grp GenericEntity : "{5ED75A8D67104F36}Prefabs/Vehicles/Wheeled/M923A1/UraniumPelletsCrate.et" {
+ {
+  coords 2587.045 25.991 1758.454
+  angleY -105.191
+ }
+ {
+  coords 2588.781 25.956 1755.841
+  angleY 170.064
+ }
+ {
+  coords 2587.134 25.982 1756.092
+  angleY -129.465
+ }
+}

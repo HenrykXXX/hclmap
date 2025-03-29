@@ -1,0 +1,25 @@
+GenericEntity UraniumConversion {
+ components {
+  MapDescriptorComponent "{64F910CF1C835145}" {
+   DisplayName "Uranium conversion"
+   MainType "Name Generic"
+  }
+ }
+ coords 942.524 2.125 162.122
+}
+GenericEntity : "{D6CA7E5B02A11FCA}Prefabs/Vehicles/Wheeled/M923A1/MultiUF6.et" {
+ coords 943.84 2.565 165.188
+}
+$grp GenericEntity : "{E8686B0D2139DE38}Prefabs/Vehicles/Wheeled/M923A1/UF6Barrel.et" {
+ {
+  coords 946.159 2.565 160.296
+ }
+ {
+  coords 946.182 2.565 159.219
+  angleY 64.675
+ }
+ {
+  coords 945.419 2.565 159.776
+  angleY 3.894
+ }
+}

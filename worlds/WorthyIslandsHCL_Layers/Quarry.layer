@@ -1,0 +1,111 @@
+GenericEntity UraniumMine {
+ components {
+  MapDescriptorComponent "{64F910CF1C835145}" {
+   DisplayName "Uranium Mine"
+   MainType "Name Generic"
+  }
+ }
+ coords 2401.366 20.781 731.32
+}
+$grp Tree : "{8A096396BFFC4000}Prefabs/OreResource/HCL_Uranium_Ore.et" {
+ {
+  coords 2391.261 -0 734.3
+  angleY -100.384
+ }
+ {
+  coords 2392.615 0 732.729
+  angleY 85.788
+ }
+ {
+  coords 2393.158 0 734.871
+  angleY -121.378
+ }
+ {
+  coords 2392.131 0 736.415
+  angleY -96.577
+ }
+ {
+  coords 2391.753 -0 735.337
+  angleY 97.174
+ }
+ {
+  coords 2393.771 -0 732.331
+  angleY -134.579
+ }
+ {
+  coords 2396.166 0 729.155
+  angleY -143.708
+ }
+ {
+  coords 2394.92 -0 731.076
+  angleY -88.57
+ }
+ {
+  coords 2396.628 -0 730.183
+  angleY 74.907
+ }
+ {
+  coords 2395.766 0 732.454
+  angleY 109.136
+ }
+ {
+  coords 2397.255 0 727.369
+  angleY -0.784
+ }
+ {
+  coords 2398.193 0 728.792
+  angleY -137.086
+ }
+ {
+  coords 2398.523 0 726.491
+  angleY 121.685
+ }
+ {
+  coords 2399.273 0 727.823
+  angleY 133.309
+ }
+ {
+  coords 2398.569 0 724.784
+  angleY -139.596
+ }
+ {
+  coords 2399.747 0 726.128
+  angleY -112.482
+ }
+ {
+  coords 2390.06 0 737.822
+  angleY -83.982
+ }
+ {
+  coords 2394.856 0 734.345
+  angleY -159.842
+ }
+ {
+  coords 2391.549 0 738.202
+  angleY 58.597
+ }
+ {
+  coords 2393.616 0 737.332
+  angleY 40.589
+ }
+ {
+  coords 2390.275 -0 735.902
+  angleY -65.536
+ }
+ {
+  coords 2388.616 0 739.422
+  angleY -37.508
+ }
+ {
+  coords 2392.705 0 738.554
+  angleY -156.46
+ }
+ {
+  coords 2390.067 0 739.531
+  angleY 54.525
+ }
+ {
+  coords 2391.974 0 740.282
+  angleY -67.153
+ }
+}

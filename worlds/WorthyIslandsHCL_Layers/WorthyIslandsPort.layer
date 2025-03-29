@@ -1,0 +1,45 @@
+$grp GenericEntity {
+ SmeltingZirconiumIngot {
+  components {
+   MapDescriptorComponent "{64F910CF1C835145}" {
+    DisplayName "Smelting zirconium ingot"
+    MainType "Name Generic"
+   }
+  }
+  coords 2556.606 2.1 1101.058
+ }
+ ManufacturingZirconiumAlloyTubes {
+  components {
+   MapDescriptorComponent "{64F910CF1C835145}" {
+    DisplayName "Manufacturing zirconium alloy tubes"
+    MainType "Name Generic"
+   }
+  }
+  coords 985.057 10.844 2998.643
+ }
+}
+GenericEntity : "{0AB8208068CD21DE}Prefabs/Vehicles/Wheeled/M923A1/CargoRods.et" {
+ components {
+  MeshObject "{5872F0EB7FA40561}" {
+   Materials {
+    MaterialAssignClass "{64FB1CEDE8488ABC}" {
+     SourceMaterial "NuHazard"
+     AssignedMaterial "{C0858C665CCAD2F9}Prefabs/Vehicles/Wheeled/M923A1/FuelRodsModel/Data/ZrMat.emat"
+    }
+   }
+  }
+ }
+ coords 981.506 10.844 2997.812
+ angleY -76.969
+}
+Vehicle M923A1_Cargo6 : "{3446796595540715}Prefabs/Vehicles/Wheeled/M923A1/M923A1_Cargo.et" {
+ components {
+  AttachmentSlotComponent "{64FB0C955FCE45A8}" {
+   AttachmentSlot InventoryStorageSlot FuelRods {
+    Prefab "{0AB8208068CD21DE}Prefabs/Vehicles/Wheeled/M923A1/CargoRods.et"
+   }
+  }
+ }
+ coords 986.472 10.844 3001.171
+ angleY 139.046
+}

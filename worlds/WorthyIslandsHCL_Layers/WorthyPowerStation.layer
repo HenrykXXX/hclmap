@@ -1,0 +1,9 @@
+GenericEntity FuelRodsSell {
+ components {
+  MapDescriptorComponent "{64F910CF1C835145}" {
+   DisplayName "Power plant warehouse"
+   MainType "Name Generic"
+  }
+ }
+ coords 2022.03 4.674 898.055
+}

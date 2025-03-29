@@ -1,0 +1,17 @@
+GenericEntity FuelRods {
+ components {
+  MapDescriptorComponent "{64F910CF1C835145}" {
+   DisplayName "Manufacturing fuel rods"
+   MainType "Name Generic"
+  }
+ }
+ coords 886.67 9.5 2310.217
+}
+Vehicle M923A1_Cargo5 : "{3446796595540715}Prefabs/Vehicles/Wheeled/M923A1/M923A1_Cargo.et" {
+ coords 900.863 9.567 2311.455
+ angleY -94.69
+}
+GenericEntity : "{B000C92A035C1DEC}Prefabs/Vehicles/Wheeled/M923A1/CargoFuelRods.et" {
+ coords 904.124 9.494 2307.116
+ angleY -89.169
+}
