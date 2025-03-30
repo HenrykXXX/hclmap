@@ -1,14 +1,554 @@
-GenericEntity {
- components {
-  MeshObject "{64FB1CD7555D61E1}" {
-   Object "{25D216B7677A605B}Prefabs/Vehicles/Wheeled/M923A1/Plane.xob"
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{64FB1CD7555D61E1}" {
+    Object "{25D216B7677A605B}Prefabs/Vehicles/Wheeled/M923A1/Plane.xob"
+   }
   }
+  coords 1643.048 23.145 2952.696
+  angleX 89.692
+  angleY -1.856
+  angleZ -180
+  scale 18.526
  }
- coords 1643.048 23.145 2952.696
- angleX 89.692
- angleY -1.856
- angleZ -180
- scale 18.526
+ {
+  components {
+   MeshObject "{64FCAC17361E616F}" {
+    Object "{3F9D2521AB3659E4}Prefabs/Props/Vegetation/SM_Blueberries_A/SM_Blueberries_A.xob"
+   }
+  }
+  coords 1635.92 2 2988.435
+  scale 0.268
+ }
+ {
+  components {
+   MeshObject "{64FCAC1499EA6FF9}" {
+    Object "{23914D8A62781A48}Prefabs/Props/Vegetation/SM_Blueberries_A/SM_Blueberries.xob"
+   }
+  }
+  coords 1635.854 2.048 2987.957
+  scale 0.74
+ }
+ {
+  components {
+   MeshObject "{64FCAC153BF64EBF}" {
+    Object "{31EAB53BE5E5498E}Prefabs/Props/Vegetation/SM_Broccoli_A/SM_Broccoli_A.xob"
+   }
+  }
+  coords 1637.031 2 2988.62
+ }
+ {
+  components {
+   MeshObject "{64FCAC153CDD6051}" {
+    Object "{A4EE157E0F92EE24}Prefabs/Props/Vegetation/SM_Broccoli_A/SM_Broccoli.xob"
+   }
+  }
+  coords 1636.99 2 2988.004
+ }
+ {
+  components {
+   MeshObject "{64FCAC1ABE29BA4F}" {
+    Object "{50089AA666258F12}Prefabs/Props/Vegetation/SM_Cabbage_A/SM_Cabbage_A.xob"
+   }
+  }
+  coords 1638.788 2 2988.858
+ }
+ {
+  components {
+   MeshObject "{64FCAC1ABF306563}" {
+    Object "{909502D23405FCD0}Prefabs/Props/Vegetation/SM_Cabbage_A/SM_Cabbage.xob"
+   }
+  }
+  coords 1638.832 2 2987.6
+ }
+ {
+  components {
+   MeshObject "{64FCAC1A0E8608EB}" {
+    Object "{5C633CB81C94B099}Prefabs/Props/Vegetation/SM_Cacao_A/SM_Cacao_A.xob"
+   }
+  }
+  coords 1642.882 2 2989.59
+ }
+ {
+  components {
+   MeshObject "{64FCAC1A0FBC93FD}" {
+    Object "{46B933843123BC90}Prefabs/Props/Vegetation/SM_Cacao_A/SM_Cacao.xob"
+   }
+  }
+  coords 1642.816 2 2988.03
+ }
+ {
+  components {
+   MeshObject "{64FCAC19B054CA21}" {
+    Object "{35BF44FBF06BB33B}Prefabs/Props/Vegetation/SM_Carrot_A/SM_Carrot_A.xob"
+   }
+  }
+  coords 1645.059 2 2989.298
+ }
+ {
+  components {
+   MeshObject "{64FCAC19B054CA21}" {
+    Object "{35BF44FBF06BB33B}Prefabs/Props/Vegetation/SM_Carrot_A/SM_Carrot_A.xob"
+   }
+  }
+  coords 1645.303 2 2989.128
+ }
+ {
+  components {
+   MeshObject "{64FCAC19B054CA21}" {
+    Object "{35BF44FBF06BB33B}Prefabs/Props/Vegetation/SM_Carrot_A/SM_Carrot_A.xob"
+   }
+  }
+  coords 1645.057 2 2989.011
+ }
+ {
+  components {
+   MeshObject "{64FCAC19F1B13F1F}" {
+    Object "{526F08F15F99F5C0}Prefabs/Props/Vegetation/SM_Cauliflower_A/SM_Cauliflower_A.xob"
+   }
+  }
+  coords 1647.212 2 2988.88
+  scale 0.39
+ }
+ {
+  components {
+   MeshObject "{64FCAC1F81781F46}" {
+    Object "{46C600789CABEA2E}Prefabs/Props/Vegetation/SM_Coffee_A/SM_Coffee_A.xob"
+   }
+  }
+  coords 1651.331 2 2990.084
+ }
+ {
+  components {
+   MeshObject "{64FCAC1F8581C641}" {
+    Object "{8F0F8D69B489A828}Prefabs/Props/Vegetation/SM_Coffee_A/SM_Coffee.xob"
+   }
+  }
+  coords 1651.173 2.053 2987.274
+ }
+ {
+  components {
+   MeshObject "{64FCAC1F2CEC1D86}" {
+    Object "{F5EBD5979686F6B1}Prefabs/Props/Vegetation/SM_Corn_A/SM_Corn_A.xob"
+   }
+  }
+  coords 1656.066 2 2990.381
+ }
+ {
+  components {
+   MeshObject "{64FCAC1F2DAACF3F}" {
+    Object "{92052B0C5336EF57}Prefabs/Props/Vegetation/SM_Corn_A/SM_Corn.xob"
+   }
+  }
+  coords 1656.037 2 2988.449
+  scale 0.69
+ }
+ {
+  components {
+   MeshObject "{64FCAC1C0D540764}" {
+    Object "{615631A2A64D565C}Prefabs/Props/Vegetation/SM_Cotton_A/SM_Cotton_A.xob"
+   }
+  }
+  coords 1659.152 2 2990.951
+ }
+ {
+  components {
+   MeshObject "{64FCAC1C0E2438AA}" {
+    Object "{102FC839F7A6F667}Prefabs/Props/Vegetation/SM_Cotton_A/SM_Cotton.xob"
+   }
+  }
+  coords 1658.993 2 2988.55
+ }
+ {
+  components {
+   MeshObject "{64FCAC1DF6D171E6}" {
+    Object "{DF9C69BB607B4923}Prefabs/Props/Vegetation/SM_Cucumber_A/SM_Cucumber_A.xob"
+   }
+  }
+  coords 1662.528 2 2991.021
+ }
+ {
+  components {
+   MeshObject "{64FCAC1DF7C88506}" {
+    Object "{07BBC2D80801E4EA}Prefabs/Props/Vegetation/SM_Cucumber_A/SM_Cucumber.xob"
+   }
+  }
+  coords 1662.498 2.018 2988.849
+ }
+ {
+  components {
+   MeshObject "{64FCAC025A362D35}" {
+    Object "{0853C1F7D0CA6E81}Prefabs/Props/Vegetation/SM_Eggplant_A/SM_Eggplant_A.xob"
+   }
+  }
+  coords 1665.209 2 2991.201
+ }
+ {
+  components {
+   MeshObject "{64FCAC025C98B20D}" {
+    Object "{F2078649B3279892}Prefabs/Props/Vegetation/SM_Eggplant_A/SM_Eggplant.xob"
+   }
+  }
+  coords 1665.243 2.269 2989.297
+ }
+ {
+  components {
+   MeshObject "{64FCAC03E0D14FE9}" {
+    Object "{33E0F2832AE5EA8C}Prefabs/Props/Vegetation/SM_Garlic_A/SM_Garlic_A.xob"
+   }
+  }
+  coords 1666.548 2 2991.331
+ }
+ {
+  components {
+   MeshObject "{64FCAC03E1C4774B}" {
+    Object "{5CB3C34538648725}Prefabs/Props/Vegetation/SM_Garlic_A/SM_Garlic.xob"
+   }
+  }
+  coords 1666.463 2 2989.612
+ }
+ {
+  components {
+   MeshObject "{64FCAC00B53BD435}" {
+    Object "{22F7516978A93AB3}Prefabs/Props/Vegetation/SM_Grape_A/SM_Grape_A.xob"
+   }
+  }
+  coords 1668.872 2 2991.734
+ }
+ {
+  components {
+   MeshObject "{64FCAC00B62707C4}" {
+    Object "{DB4665AC8CE35DB5}Prefabs/Props/Vegetation/SM_Grape_A/SM_Grape.xob"
+   }
+  }
+  coords 1668.82 2.334 2990.381
+ }
+ {
+  components {
+   MeshObject "{64FCAC01E5C92F70}" {
+    Object "{6BC0279E6D6B156C}Prefabs/Props/Vegetation/SM_Hemp_B/SM_Hemp_B.xob"
+   }
+  }
+  coords 1670.721 2 2991.552
+  angleY 75.598
+ }
+ {
+  components {
+   MeshObject "{64FCAC01E5C92F70}" {
+    Object "{6BC0279E6D6B156C}Prefabs/Props/Vegetation/SM_Hemp_B/SM_Hemp_B.xob"
+   }
+  }
+  coords 1670.374 2 2990.663
+ }
+ {
+  components {
+   MeshObject "{64FCAC01E5C92F70}" {
+    Object "{6BC0279E6D6B156C}Prefabs/Props/Vegetation/SM_Hemp_B/SM_Hemp_B.xob"
+   }
+  }
+  coords 1671.721 2 2990.978
+  angleY 52.394
+ }
+ {
+  components {
+   MeshObject "{64FCAC01E5C92F70}" {
+    Object "{6BC0279E6D6B156C}Prefabs/Props/Vegetation/SM_Hemp_B/SM_Hemp_B.xob"
+   }
+  }
+  coords 1671.277 2 2990.309
+  angleY -46.846
+ }
+ {
+  components {
+   MeshObject "{64FCAC01E5C92F70}" {
+    Object "{6BC0279E6D6B156C}Prefabs/Props/Vegetation/SM_Hemp_B/SM_Hemp_B.xob"
+   }
+  }
+  coords 1672.424 2 2990.345
+  angleY -39.073
+ }
+ {
+  components {
+   MeshObject "{64FCAC01E5C92F70}" {
+    Object "{6BC0279E6D6B156C}Prefabs/Props/Vegetation/SM_Hemp_B/SM_Hemp_B.xob"
+   }
+  }
+  coords 1671.514 2 2989.386
+  angleY -32.747
+ }
+ {
+  components {
+   MeshObject "{64FCAC01E5C92F70}" {
+    Object "{6BC0279E6D6B156C}Prefabs/Props/Vegetation/SM_Hemp_B/SM_Hemp_B.xob"
+   }
+  }
+  coords 1670.306 2 2990.049
+  angleY -57.753
+ }
+ {
+  components {
+   MeshObject "{64FCAC06419DA3B4}" {
+    Object "{F4C9687155E0EFF8}Prefabs/Props/Vegetation/SM_Onion/SM_Onion_A.xob"
+   }
+  }
+  coords 1675.309 2 2991.586
+ }
+ {
+  components {
+   MeshObject "{64FCAC064141A4ED}" {
+    Object "{413B623FB6D19B94}Prefabs/Props/Vegetation/SM_Onion/SM_Onion.xob"
+   }
+  }
+  coords 1675.272 2 2990.201
+ }
+ {
+  components {
+   MeshObject "{64FCAC07CF60FCAC}" {
+    Object "{5DE199932582A27B}Prefabs/Props/Vegetation/SM_Peas_A/SM_Peas_A.xob"
+   }
+  }
+  coords 1677.066 2 2991.647
+ }
+ {
+  components {
+   MeshObject "{64FCAC07C05915DF}" {
+    Object "{4827AA906B9C0180}Prefabs/Props/Vegetation/SM_Peas_A/SM_Peas.xob"
+   }
+  }
+  coords 1677.248 2 2990.302
+ }
+ {
+  components {
+   MeshObject "{64FCAC072783BC18}" {
+    Object "{4DBEBBB91C22B43E}Prefabs/Props/Vegetation/SM_Pepper_A/SM_Pepper_A.xob"
+   }
+  }
+  coords 1678.126 2 2991.678
+ }
+ {
+  components {
+   MeshObject "{64FCAC0758A7A993}" {
+    Object "{E9189E1DDB2F3D79}Prefabs/Props/Vegetation/SM_Pepper_A/SM_Pepper.xob"
+   }
+  }
+  coords 1678.17 2.187 2990.497
+ }
+ {
+  components {
+   MeshObject "{64FCAC04DFB2BF48}" {
+    Object "{DD58583F7C81466B}Prefabs/Props/Buildings/SM_Planter/SM_Planter_A_02.xob"
+   }
+  }
+  coords 1685.058 2 2993.138
+ }
+ {
+  components {
+   MeshObject "{64FCAC04DF140E41}" {
+    Object "{48D17EE9358D2450}Prefabs/Props/Buildings/SM_Planter/SM_Planter_D_02.xob"
+   }
+  }
+  coords 1684.958 2 2987.317
+ }
+ {
+  components {
+   MeshObject "{64FCAC05FB00CB44}" {
+    Object "{D72163061D895D67}Prefabs/Props/Vegetation/SM_Poricini_Mushroom_B/SM_Poricini_Mushroom_B.xob"
+   }
+  }
+  coords 1689.443 2 2986.465
+ }
+ {
+  components {
+   MeshObject "{64FCAC05FB00CB44}" {
+    Object "{D72163061D895D67}Prefabs/Props/Vegetation/SM_Poricini_Mushroom_B/SM_Poricini_Mushroom_B.xob"
+   }
+  }
+  coords 1689.73 2 2986.366
+ }
+ {
+  components {
+   MeshObject "{64FCAC05FB00CB44}" {
+    Object "{D72163061D895D67}Prefabs/Props/Vegetation/SM_Poricini_Mushroom_B/SM_Poricini_Mushroom_B.xob"
+   }
+  }
+  coords 1689.469 2 2986.199
+ }
+ {
+  components {
+   MeshObject "{64FCAC05FB00CB44}" {
+    Object "{D72163061D895D67}Prefabs/Props/Vegetation/SM_Poricini_Mushroom_B/SM_Poricini_Mushroom_B.xob"
+   }
+  }
+  coords 1689.206 2 2986.336
+ }
+ {
+  components {
+   MeshObject "{64FCAC05FB00CB44}" {
+    Object "{D72163061D895D67}Prefabs/Props/Vegetation/SM_Poricini_Mushroom_B/SM_Poricini_Mushroom_B.xob"
+   }
+  }
+  coords 1689.418 2 2986.975
+ }
+ {
+  components {
+   MeshObject "{64FCAC05FB00CB44}" {
+    Object "{D72163061D895D67}Prefabs/Props/Vegetation/SM_Poricini_Mushroom_B/SM_Poricini_Mushroom_B.xob"
+   }
+  }
+  coords 1689.74 2 2986.766
+ }
+ {
+  components {
+   MeshObject "{64FCAC05FB00CB44}" {
+    Object "{D72163061D895D67}Prefabs/Props/Vegetation/SM_Poricini_Mushroom_B/SM_Poricini_Mushroom_B.xob"
+   }
+  }
+  coords 1689.416 2 2986.79
+ }
+ {
+  components {
+   MeshObject "{64FCAC05FB00CB44}" {
+    Object "{D72163061D895D67}Prefabs/Props/Vegetation/SM_Poricini_Mushroom_B/SM_Poricini_Mushroom_B.xob"
+   }
+  }
+  coords 1689.178 2 2986.614
+ }
+ {
+  components {
+   MeshObject "{64FCAC05FB00CB44}" {
+    Object "{D72163061D895D67}Prefabs/Props/Vegetation/SM_Poricini_Mushroom_B/SM_Poricini_Mushroom_B.xob"
+   }
+  }
+  coords 1689.335 2 2986.441
+ }
+ {
+  components {
+   MeshObject "{64FCAC05FB00CB44}" {
+    Object "{D72163061D895D67}Prefabs/Props/Vegetation/SM_Poricini_Mushroom_B/SM_Poricini_Mushroom_B.xob"
+   }
+  }
+  coords 1689.353 2 2986.671
+ }
+ {
+  components {
+   MeshObject "{64FCAC05FB00CB44}" {
+    Object "{D72163061D895D67}Prefabs/Props/Vegetation/SM_Poricini_Mushroom_B/SM_Poricini_Mushroom_B.xob"
+   }
+  }
+  coords 1689.655 2 2986.554
+ }
+ {
+  components {
+   MeshObject "{64FCAC0A9E61D39A}" {
+    Object "{F0AAF2AE36AEE293}Prefabs/Props/Vegetation/SM_Potato_A/SM_Potato_A.xob"
+   }
+  }
+  coords 1691.134 2 2987.206
+ }
+ {
+  components {
+   MeshObject "{64FCAC0A9F0192FE}" {
+    Object "{AD23BD8B1A69794C}Prefabs/Props/Vegetation/SM_Potato_A/SM_Potato.xob"
+   }
+  }
+  coords 1691.18 2 2986.032
+ }
+ {
+  components {
+   MeshObject "{64FCAC0AE9950910}" {
+    Object "{9587E4E4EAB4D97F}Prefabs/Props/Vegetation/SM_Pumpkin_A/SM_Pumpkin_A.xob"
+   }
+  }
+  coords 1693.193 2 2987.371
+ }
+ {
+  components {
+   MeshObject "{64FCAC0AEA5FF9D8}" {
+    Object "{3E09E7FECF05A89F}Prefabs/Props/Vegetation/SM_Pumpkin_A/SM_Pumpkin.xob"
+   }
+  }
+  coords 1692.816 2.497 2985.794
+ }
+ {
+  components {
+   MeshObject "{64FCAC0B6646DECE}" {
+    Object "{4659B4A9F50348C0}Prefabs/Props/Vegetation/SM_Strawberry_A/SM_Strawberry_A.xob"
+   }
+  }
+  coords 1698.068 2 2987.449
+ }
+ {
+  components {
+   MeshObject "{64FCAC0898A48858}" {
+    Object "{DF8756F80567F344}Prefabs/Props/Vegetation/SM_Strawberry_A/SM_Strawberry.xob"
+   }
+  }
+  coords 1698.013 2.137 2986.101
+ }
+ {
+  components {
+   MeshObject "{64FCAC082DE09B23}" {
+    Object "{C9CAFFB0E725016A}Prefabs/Props/Vegetation/SM_Tomatoes_A/SM_Tomatoes_A.xob"
+   }
+  }
+  coords 1699.784 2 2987.364
+ }
+ {
+  components {
+   MeshObject "{64FCAC082F348FD4}" {
+    Object "{CC71C72BB387B04D}Prefabs/Props/Vegetation/SM_Tomatoes_A/SM_Tomatoes.xob"
+   }
+  }
+  coords 1699.71 2.097 2986.448
+ }
+ {
+  components {
+   MeshObject "{64FCAC087ECCA9B4}" {
+    Object "{3A8113A77BE575A1}Prefabs/Props/Vegetation/SM_Turnip/SM_Turnip_A.xob"
+   }
+  }
+  coords 1702.679 2 2987.413
+ }
+ {
+  components {
+   MeshObject "{64FCAC087FBC31C6}" {
+    Object "{B9515C23703056CE}Prefabs/Props/Vegetation/SM_Turnip/SM_Turnip.xob"
+   }
+  }
+  coords 1702.88 2 2985.409
+ }
+ {
+  components {
+   MeshObject "{64FCAC09A0CD7508}" {
+    Object "{E324252DE766C8BB}Prefabs/Props/Vegetation/SM_Watermelon_A/SM_Watermelon_A.xob"
+   }
+  }
+  coords 1705.515 2 2987.654
+ }
+ {
+  components {
+   MeshObject "{64FCAC09A1F70373}" {
+    Object "{A50E8830A3C509B4}Prefabs/Props/Vegetation/SM_Watermelon_A/SM_Watermelon.xob"
+   }
+  }
+  coords 1705.795 2 2985.69
+ }
+ {
+  components {
+   MeshObject "{64FCAC095476BA02}" {
+    Object "{5534C9A1F6A78C08}Prefabs/Props/Vegetation/SM_Zucchini_A/SM_Zucchini_A.xob"
+   }
+  }
+  coords 1709.684 2 2989.161
+ }
+ {
+  components {
+   MeshObject "{64FCAC0955DD636C}" {
+    Object "{84586C9408612A72}Prefabs/Props/Vegetation/SM_Zucchini_A/SM_Zucchini.xob"
+   }
+  }
+  coords 1709.863 2 2987.439
+ }
 }
 $grp GenericEntity : "{0184BE4DCEC50670}Prefabs/Vehicles/Wheeled/M923A1/UO2Barrel.et" {
  {
@@ -191,10 +731,10 @@ Tree : "{7D7600CC7D974849}Prefabs/OreResource/HCL_Copper_Ore.et" {
 }
 $grp Tree : "{86BF87FA94FAB72C}Prefabs/OreResource/HCL_Mithrii_Ore.et" {
  {
-  coords 1659.843 -0 2960.499
+  coords 1659.843 0 2960.499
  }
  {
-  coords 1631.25 -0 2998.741
+  coords 1631.25 0 2998.741
  }
 }
 GenericEntity : "{88215577A1FFFF57}Prefabs/Items/Ore/HCL_Ore_Iron.et" {
@@ -202,7 +742,7 @@ GenericEntity : "{88215577A1FFFF57}Prefabs/Items/Ore/HCL_Ore_Iron.et" {
 }
 $grp Tree : "{8A096396BFFC4000}Prefabs/OreResource/HCL_Uranium_Ore.et" {
  {
-  coords 1623.28 -0 2959.476
+  coords 1623.28 0 2959.476
  }
  {
   coords 1633.406 0 2998.864
