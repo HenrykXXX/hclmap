@@ -561,6 +561,12 @@ $grp GenericEntity : "{0184BE4DCEC50670}Prefabs/Vehicles/Wheeled/M923A1/UO2Barre
 Vehicle Ford_F700_Black1 : "{0272ED965724BF65}Prefabs/Vehicles/Wheeled/M923A1/91FordF700/Ford_F700_Black.et" {
  coords 1710.654 2 2962.032
 }
+GenericEntity : "{06B68C58B72EAAC6}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium.et" {
+ coords 1615.49 2 2985.433
+}
+GameEntity : "{06BC3F18B47799AE}Prefabs/Characters/Uniforms/Pants_M70.et" {
+ coords 1614.474 2 2982.038
+}
 $grp GenericEntity : "{0AB8208068CD21DE}Prefabs/Vehicles/Wheeled/M923A1/CargoRods.et" {
  {
   coords 1642.861 2 2997.388
@@ -702,6 +708,9 @@ Vehicle ChevyTahoe_Police_Black1 : "{39D26D9669C4E590}Prefabs/Vehicles/Wheeled/M
 Vehicle DodgeChargerSRT_HellcatRedeye_Police_BlackWhite1 : "{446F895FDCBA5F07}Prefabs/Vehicles/Wheeled/M998/22ChargerHellcat/DodgeChargerSRT_HellcatRedeye_Police_BlackWhite.et" {
  coords 1689.833 2 2964.74
 }
+GenericEntity : "{4805E67E2AE30F8D}Prefabs/Items/Equipment/Backpacks/Backpack_Medical_M5.et" {
+ coords 1615.565 2 2987.046
+}
 Vehicle AudiR8WB_Orange1 : "{4863037565498AD4}Prefabs/Vehicles/Wheeled/M998/08AudiR8WB/AudiR8WB_Orange.et" {
  coords 1736.339 2 2958.137
 }
@@ -727,6 +736,9 @@ Vehicle DodgeCharger_10_Black_Police1 : "{53142516E99D9C03}Prefabs/Vehicles/Whee
 SCR_SpawnPoint : "{5A2220DD0C16958B}Prefabs/MP/Spawning/SpawnPoint_US.et" {
  coords 1615.344 2.479 2977.427
  angleY 83.043
+}
+GenericEntity : "{5C5C6EE05EE2FF1A}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium_assembled.et" {
+ coords 1615.692 2 2985.875
 }
 $grp GenericEntity : "{5D66454327251DE0}Prefabs/Items/Food/HCL_Food_Peach.et" {
  {
@@ -830,8 +842,14 @@ $grp GenericEntity : "{94D35001FDC95A94}Prefabs/Vehicles/Wheeled/M923A1/Yellowca
   coords 1627.337 3.11 2960.647
  }
 }
+GenericEntity : "{95D4766BBE46F23D}Prefabs/Items/Equipment/Backpacks/Backpack_IIFS_FieldPack.et" {
+ coords 1615.563 2 2984.036
+}
 Vehicle JackalTruck_Armed_Black1 : "{9DEA731DFC8BFD02}Prefabs/Vehicles/Wheeled/Ural4320/JackalTruck_Armed_Black.et" {
  coords 1794.385 2 2956.278
+}
+GameEntity : "{9F546CCA2582D16F}Prefabs/Characters/Uniforms/Jacket_M88.et" {
+ coords 1613.514 2 2981.821
 }
 Vehicle BMW_M2Competition_Lime1 : "{A09889B2A20E7540}Prefabs/Vehicles/Wheeled/M998/19M2Comp/BMW_M2Competition_Lime.et" {
  coords 1766.497 2 2955.815
@@ -860,6 +878,9 @@ Vehicle FordF150_Grey1 : "{B0DF74CC0917EA00}Prefabs/Vehicles/Wheeled/M998/21Ford
 Vehicle HondaIntegraTypeR_Grey1 : "{B190ECAED2A7FBC0}Prefabs/Vehicles/Wheeled/S105/95IntegraTypeR/HondaIntegraTypeR_Grey.et" {
  coords 1781.246 2 2956.185
 }
+GameEntity : "{BBA08EC4EC40FA94}Prefabs/Characters/Uniforms/Jacket_M70.et" {
+ coords 1613.724 2 2980.949
+}
 Vehicle DodgeChargerSRT_HellcatRedeye_Yellow1 : "{C036849662D84883}Prefabs/Vehicles/Wheeled/M998/22ChargerHellcat/DodgeChargerSRT_HellcatRedeye_Yellow.et" {
  coords 1774.27 2 2955.824
 }
@@ -887,6 +908,9 @@ Vehicle LamboAventador_RedBlack1 : "{CE8A5154AC2B8D55}Prefabs/Vehicles/Wheeled/M
 Vehicle JackalTruck_Armed1 : "{D3017288592F8976}Prefabs/Vehicles/Wheeled/Ural4320/JackalTruck_Armed.et" {
  coords 1798.629 2 2957.413
 }
+GenericEntity : "{D3FCFE5148A78C43}Prefabs/MP/CombatOps/AmmoBoxes/ArsenalBox_USSR_CO.et" {
+ coords 1614.724 2 2994.235
+}
 $grp GenericEntity : "{D6CA7E5B02A11FCA}Prefabs/Vehicles/Wheeled/M923A1/MultiUF6.et" {
  {
   coords 1632.463 1.997 2960.079
@@ -906,6 +930,9 @@ $grp GenericEntity : "{D9DE0E379939B689}Prefabs/Vehicles/Wheeled/M923A1/MultiYel
  {
   coords 1657.694 2 2998.123
  }
+}
+GameEntity : "{E44990162EBC47B7}Prefabs/Characters/Uniforms/Jacket_M88_base.et" {
+ coords 1614.039 2 2982.997
 }
 Vehicle FordExplorer_Red1 : "{E4E9175AECB9A053}Prefabs/Vehicles/Wheeled/M998/11FordExplorer/FordExplorer_Red.et" {
  coords 1745.529 2 2957.643
@@ -939,4 +966,7 @@ GenericEntity : "{F27393F566928E15}Prefabs/Items/Ore/HCL_Ore_Mithrii.et" {
 }
 Vehicle JackalTruck_Black1 : "{F7DFC220F9EF1FC1}Prefabs/Vehicles/Wheeled/Ural4320/JackalTruck_Black.et" {
  coords 1790.016 2 2956.75
+}
+GenericEntity : "{FDA7B6630DB87991}Prefabs/Items/Equipment/Backpacks/Backpack_M70_Swiss.et" {
+ coords 1616.829 2 2985.15
 }
