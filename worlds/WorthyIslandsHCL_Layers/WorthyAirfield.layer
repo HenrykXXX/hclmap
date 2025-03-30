@@ -278,6 +278,9 @@ $grp GenericEntity : "{0184BE4DCEC50670}Prefabs/Vehicles/Wheeled/M923A1/UO2Barre
   coords 1641.775 3.13 2961.139
  }
 }
+GameEntity : "{01B00E6085AB7F62}Prefabs/Uniforms/Tops/Tshirt/Tshirt_NikeBlack.et" {
+ coords 1590.776 2 3007.225
+}
 $grp GenericEntity : "{0255164760309536}Prefabs/Items/Food/HCL_Food_Watermelon.et" {
  {
   coords 1706.431 2 2985.384
@@ -309,6 +312,9 @@ $grp GenericEntity : "{0323E92D9E6E9F4D}Prefabs/Items/Food/HCL_Food_Corn.et" {
  {
   coords 1655.992 2 2988.659
  }
+}
+GameEntity : "{048F588D4F92EC7A}Prefabs/Uniforms/Pants/Jeans_skinny/Jeans_BLUE.et" {
+ coords 1592.054 2 3011.942
 }
 $grp GenericEntity : "{05B8C0C07613C422}Prefabs/Items/Food/HCL_Food_Garlic.et" {
  {
@@ -371,6 +377,15 @@ Vehicle DodgeChargerSRT_HellcatRedeye_Police_WhiteBlack1 : "{1B7059870D4E50C0}Pr
 GenericEntity : "{1F9C02ADF503991D}Prefabs/Items/Ore/HCL_Ore_copper.et" {
  coords 1628.281 2 2998.037
 }
+GameEntity : "{217EAB99948D58C6}Prefabs/Uniforms/Pants/Jeans/Jeans.et" {
+ coords 1590.397 2 3011.988
+}
+GameEntity : "{23809724188D7916}Prefabs/Uniforms/Tops/Tech2021_Top/Tech2021_Grey.et" {
+ coords 1593.74 2 3008.803
+}
+GenericEntity : "{25812702E403A14F}Prefabs/Footwear/Jordan4/Jordan4_RedThunder.et" {
+ coords 1592.498 2 3013.285
+}
 $grp GenericEntity : "{262EBA9EF431A07D}Prefabs/Vehicles/Wheeled/M923A1/MultiUraniumPelletsCrate.et" {
  {
   coords 1661.957 2 2997.98
@@ -391,6 +406,9 @@ $grp GenericEntity : "{2675F3B242AB4823}Prefabs/Items/Food/HCL_Food_Cauliflower.
   coords 1647.37 2 2988.125
  }
 }
+GameEntity : "{26D5620833E35FA9}Prefabs/Uniforms/Pants/Jeans_skinny/Jeans_BLC.et" {
+ coords 1591.371 2 3011.905
+}
 $grp GenericEntity : "{27C9191BA491CF02}Prefabs/Items/Food/HCL_Food_SM_Broccoli.et" {
  {
   coords 1637.187 2 2987.925
@@ -405,8 +423,17 @@ $grp GenericEntity : "{27C9191BA491CF02}Prefabs/Items/Food/HCL_Food_SM_Broccoli.
 Vehicle DodgeCharger_10_Grey1 : "{283768C4733F97D8}Prefabs/Vehicles/Wheeled/M998/10Charger/DodgeCharger_10_Grey.et" {
  coords 1740.768 2 2957.477
 }
+Vehicle UAZ452_ambulance1 : "{28E08EEDBDE7B89B}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_ambulance.et" {
+ coords 1711.067 2 2932.123
+}
+GameEntity : "{29507BC8C1B417F4}Prefabs/Uniforms/Pants/slimpants/slimpants.et" {
+ coords 1595.05 2 3011.949
+}
 Vehicle DodgeCharger_06_Grey1 : "{306E2D7803179378}Prefabs/Vehicles/Wheeled/M998/06Charger/DodgeCharger_06_Grey.et" {
  coords 1731.891 2 2958.632
+}
+GameEntity : "{326173B74FA28C1D}Prefabs/HeadGear/MotoGoggles/Motocross_goggles_white.et" {
+ coords 1589.191 2 3010.739
 }
 $grp GenericEntity : "{333CE99EE37F6F88}Prefabs/Items/Food/HCL_Food_Eggplant.et" {
  {
@@ -429,6 +456,9 @@ $grp GenericEntity : "{337EB1C248849C9D}Prefabs/Items/Food/HCL_Food_SM_Blueberri
  {
   coords 1636.042 2 2987.693
  }
+}
+GenericEntity : "{33C8338F6C238362}Prefabs/Footwear/Timberland/Timberland.et" {
+ coords 1593.813 2 3013.276
 }
 $grp Vehicle : "{3446796595540715}Prefabs/Vehicles/Wheeled/M923A1/M923A1_Cargo.et" {
  M923A1_Cargo7 {
@@ -546,6 +576,9 @@ $grp GenericEntity : "{38C8C7CF241E86AB}Prefabs/Items/Food/HCL_Food_Grape.et" {
 Vehicle ChevyTahoe_Police_Black1 : "{39D26D9669C4E590}Prefabs/Vehicles/Wheeled/M998/15ChevyTahoe/ChevyTahoe_Police_Black.et" {
  coords 1674.216 2 2965.735
 }
+Vehicle M997_maxi_ambulance_MERDC1 : "{3B1EB924602C7A08}Prefabs/Vehicles/Wheeled/M998/M997_maxi_ambulance_MERDC.et" {
+ coords 1715.701 2 2931.655
+}
 $grp GenericEntity : "{4245E25C8105A503}Prefabs/Items/Food/HCL_Food_Coffee.et" {
  {
   coords 1651.255 2 2987.2
@@ -579,6 +612,9 @@ Vehicle AudiR8WB_Orange1 : "{4863037565498AD4}Prefabs/Vehicles/Wheeled/M998/08Au
 }
 GenericEntity : "{4967716693623EF4}Prefabs/Items/Ingots/HCL_Ingot_gold.et" {
  coords 1629.148 2 2997.31
+}
+Vehicle UH1H1 : "{49842C04DB51263D}Prefabs/Vehicles/Helicopters/UH1H/UH1H.et" {
+ coords 1680.224 2 2928.652
 }
 Vehicle LamboAventador_RedCarbon1 : "{4A704DE4F9ADBFAB}Prefabs/Vehicles/Wheeled/M998/16Aventador/LamboAventador_RedCarbon.et" {
  coords 1753.849 2 2956.537
@@ -622,12 +658,18 @@ SCR_SpawnPoint : "{4FEA25583D0975F7}Prefabs/MP/Spawning/SpawnPoint_USSR.et" {
  coords 1614.635 2.46 2978.894
  angleY 68.18
 }
+GameEntity : "{52D2EEBAD7B55681}Prefabs/Uniforms/Tops/Tshirt/Tshirt_TrapstarBlack.et" {
+ coords 1592.512 2 3007.291
+}
 Vehicle DodgeCharger_10_Black_Police1 : "{53142516E99D9C03}Prefabs/Vehicles/Wheeled/M998/10Charger/DodgeCharger_10_Black_Police.et" {
  coords 1686.372 2 2965.373
 }
 SCR_SpawnPoint : "{5A2220DD0C16958B}Prefabs/MP/Spawning/SpawnPoint_US.et" {
  coords 1615.344 2.479 2977.427
  angleY 83.043
+}
+GameEntity : "{5B5A32BB2B001E37}Prefabs/Uniforms/Tops/Mayka/Mayka.et" {
+ coords 1591.319 2 3008.579
 }
 $grp GenericEntity : "{5C4CA1653DF8B997}Prefabs/Items/Food/HCL_Food_Peas.et" {
  {
@@ -663,6 +705,9 @@ $grp GenericEntity : "{5ED75A8D67104F36}Prefabs/Vehicles/Wheeled/M923A1/UraniumP
   coords 1661.784 2 2994.412
  }
 }
+GameEntity : "{60C3CF88B62596D3}Prefabs/HeadGear/MotoGoggles/Motocross_goggles.et" {
+ coords 1589.228 2 3012.336
+}
 $grp GenericEntity : "{612ACA243386D5AB}Prefabs/Vehicles/Wheeled/M923A1/EnrichedUF6.et" {
  {
   coords 1647.076 2 2994.876
@@ -681,6 +726,9 @@ $grp GenericEntity : "{620599ECE75CFE03}Prefabs/Items/Food/HCL_Food_SM_Cabbage.e
  {
   coords 1638.974 2 2987.314
  }
+}
+Vehicle UH1H_medical_UN1 : "{6404BF722F223072}Prefabs/Vehicles/Helicopters/UH1H/UH1H_medical_UN.et" {
+ coords 1650.01 2 2927.286
 }
 Vehicle NissanGTR_R35_White1 : "{649027FB091DDEAA}Prefabs/Vehicles/Wheeled/M998/17R35GTR/NissanGTR_R35_White.et" {
  coords 1762.331 2 2955.45
@@ -707,6 +755,18 @@ $grp GenericEntity : "{6653BD107211A128}Prefabs/Items/Food/HCL_Food_Cacao.et" {
   coords 1642.809 2 2987.917
  }
 }
+GameEntity : "{69BBCAA2756E759D}Prefabs/Uniforms/Tops/Mayka/Maykavdv.et" {
+ coords 1591.782 2 3008.687
+}
+GameEntity : "{6CE8EC7FDB8CB341}Prefabs/HeadGear/MotoGoggles/Motocross_goggles_Blue.et" {
+ coords 1589.232 2 3011.375
+}
+GameEntity : "{715965B35DB0DF3A}Prefabs/Uniforms/Pants/Tech_fleece_2019/Tech2019_Joggers_Blc.et" {
+ coords 1590.474 2 3010.325
+}
+GenericEntity : "{72FC15E92093C1B5}Prefabs/Footwear/AF1/AF1BLC.et" {
+ coords 1589.794 2 3013.2
+}
 $grp Tree : "{79DCF8190AE25E68}Prefabs/GatherableResourcePrefabs/Vegetation/Tree/HCL_PeachTree.et" {
  {
   coords 1621.278 0 2998.577
@@ -719,11 +779,20 @@ $grp Tree : "{79DCF8190AE25E68}Prefabs/GatherableResourcePrefabs/Vegetation/Tree
 Vehicle UH1H_civ_livery_v1 : "{7A29940A71EF5F5C}Prefabs/Vehicles/Helicopters/UH1H/UH1H_civ_livery_v1.et" {
  coords 1821.223 2 2923.606
 }
+GameEntity : "{7CDD795E4561BA59}Prefabs/Uniforms/Pants/slimfitjeans/Slimfitjeans.et" {
+ coords 1594.313 2 3011.892
+}
 Tree : "{7D7600CC7D974849}Prefabs/OreResource/HCL_Copper_Ore.et" {
  coords 1628.313 0 2998.819
 }
+GameEntity : "{7F4B708A80B0E1C2}Prefabs/Uniforms/Pants/JeansLV2/JeansLV2_BLACK.et" {
+ coords 1592.823 2 3011.912
+}
 Vehicle ChevyTahoe_Police_BlackWhite1 : "{8053858EC29C0161}Prefabs/Vehicles/Wheeled/M998/15ChevyTahoe/ChevyTahoe_Police_BlackWhite.et" {
  coords 1678.848 2 2965.188
+}
+GameEntity : "{80B497F3CDDA1F9F}Prefabs/Uniforms/Pants/Tech_fleece_2019/Tech2019_Joggers_Blc_grey.et" {
+ coords 1591.132 2 3010.225
 }
 $grp GenericEntity : "{8152BE0F9B67620F}Prefabs/Items/Food/HCL_Food_Cotton.et" {
  {
@@ -814,6 +883,12 @@ $grp GenericEntity : "{94D35001FDC95A94}Prefabs/Vehicles/Wheeled/M923A1/Yellowca
 GenericEntity : "{95D4766BBE46F23D}Prefabs/Items/Equipment/Backpacks/Backpack_IIFS_FieldPack.et" {
  coords 1615.563 2 2984.036
 }
+GameEntity : "{973DA3AB0F13356F}Prefabs/Uniforms/Tops/Tshirt/Tshirt_Jordan.et" {
+ coords 1589.846 2 3007.216
+}
+GenericEntity : "{977EFBD7CD4E8B5C}Prefabs/Footwear/Jordan4/Jordan4_Blue.et" {
+ coords 1591.198 2 3013.238
+}
 $grp GenericEntity : "{979605FB63F9DDC9}Prefabs/Items/Food/HCL_Food_Carrot.et" {
  {
   coords 1645.271 2 2988.802
@@ -825,6 +900,15 @@ $grp GenericEntity : "{979605FB63F9DDC9}Prefabs/Items/Food/HCL_Food_Carrot.et" {
   coords 1645.094 2 2989.016
  }
 }
+Vehicle Mi8MT_unarmed_medical1 : "{99AAD0856A601984}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_unarmed_medical.et" {
+ coords 1700.695 2 2928.83
+}
+GameEntity : "{9A32EC4812CC164B}Prefabs/Uniforms/Tops/Tshirt/Tshirt_TrapstarGrey.et" {
+ coords 1593.356 2 3007.409
+}
+Vehicle UH1H_medical_army1 : "{9AC165ADCBC9C44A}Prefabs/Vehicles/Helicopters/UH1H/UH1H_medical_army.et" {
+ coords 1666.594 2 2927.955
+}
 Vehicle JackalTruck_Armed_Black1 : "{9DEA731DFC8BFD02}Prefabs/Vehicles/Wheeled/Ural4320/JackalTruck_Armed_Black.et" {
  coords 1794.385 2 2956.278
 }
@@ -833,6 +917,12 @@ GameEntity : "{9F546CCA2582D16F}Prefabs/Characters/Uniforms/Jacket_M88.et" {
 }
 Vehicle BMW_M2Competition_Lime1 : "{A09889B2A20E7540}Prefabs/Vehicles/Wheeled/M998/19M2Comp/BMW_M2Competition_Lime.et" {
  coords 1766.497 2 2955.815
+}
+GameEntity : "{A147B63D50E60140}Prefabs/Uniforms/Pants/Tech_fleece_2019/Tech2019_Joggers_Grey.et" {
+ coords 1592.081 2 3010.304
+}
+GenericEntity : "{A81022B1019BF921}Prefabs/Footwear/AF1/AF1.et" {
+ coords 1589.106 2 3013.098
 }
 Vehicle ArmoredTruck_Black1 : "{A8BD5DECCD4B2634}Prefabs/Vehicles/Wheeled/M923A1/SWATtruck/ArmoredTruck_Black.et" {
  coords 1722.425 2 2959.624
@@ -852,17 +942,32 @@ $grp GenericEntity : "{B000C92A035C1DEC}Prefabs/Vehicles/Wheeled/M923A1/CargoFue
   angleY -179.945
  }
 }
+GameEntity : "{B0B36F20705850AF}Prefabs/Uniforms/Pants/JeansLV2/JeansLV2_BLUE.et" {
+ coords 1593.573 2 3011.921
+}
 Vehicle FordF150_Grey1 : "{B0DF74CC0917EA00}Prefabs/Vehicles/Wheeled/M998/21FordF150/FordF150_Grey.et" {
  coords 1770.176 2 2956.598
 }
 Vehicle HondaIntegraTypeR_Grey1 : "{B190ECAED2A7FBC0}Prefabs/Vehicles/Wheeled/S105/95IntegraTypeR/HondaIntegraTypeR_Grey.et" {
  coords 1781.246 2 2956.185
 }
+GameEntity : "{B32F419D8FDAD767}Prefabs/Uniforms/Tops/Adik_TrackSuit_Top_Prefab/Adik_TrackSuit_Top_Prefab.et" {
+ coords 1590.331 2 3008.477
+}
+GameEntity : "{B7BA272883A83309}Prefabs/Uniforms/Tops/Tshirt/Tshirt_NikeGrey.et" {
+ coords 1591.669 2 3007.219
+}
 GameEntity : "{BBA08EC4EC40FA94}Prefabs/Characters/Uniforms/Jacket_M70.et" {
  coords 1613.724 2 2980.949
 }
+GenericEntity : "{BF5959308824880F}Prefabs/Footwear/Jordan4/Jordan4_Black.et" {
+ coords 1590.583 2 3013.226
+}
 Vehicle DodgeChargerSRT_HellcatRedeye_Yellow1 : "{C036849662D84883}Prefabs/Vehicles/Wheeled/M998/22ChargerHellcat/DodgeChargerSRT_HellcatRedeye_Yellow.et" {
  coords 1774.27 2 2955.824
+}
+GameEntity : "{C28DBC76B31BCFB9}Prefabs/Uniforms/Tops/Tech2021_Top/Tech2021_Black.et" {
+ coords 1592.677 2 3008.672
 }
 $grp GenericEntity : "{C40AA15E3ACF1209}Prefabs/Items/Ore/HCL_Ore_Uranium.et" {
  {
@@ -879,8 +984,20 @@ Vehicle ChevyDumont_Ambulance1 : "{C741B09A59B43EC5}Prefabs/Vehicles/Wheeled/M99
  coords 1777.914 2 2956.572
  angleY 0
 }
+GenericEntity : "{C7923961D7235D71}Prefabs/Footwear/TNs/TN_Black.et" {
+ coords 1594.531 2 3013.296
+}
+GameEntity : "{C91324A2D9149445}Prefabs/Uniforms/Pants/TF_LOWER/Tech2019_Joggers_Blc_L.et" {
+ coords 1593.329 2 3010.224
+}
 Tree : "{CAC42BF013F18CB3}Prefabs/OreResource/HCL_silver_Ore.et" {
  coords 1632.343 0 2998.779
+}
+GameEntity : "{CC1B274E455312F1}Prefabs/Uniforms/Pants/TF_LOWER/Tech2019_Joggers_Blcgry_L.et" {
+ coords 1594.169 2 3010.379
+}
+GameEntity : "{CC68092E70865F63}Prefabs/Uniforms/Pants/TF_LOWER/Tech2019_Joggers_Grey_L.et" {
+ coords 1594.899 2 3010.239
 }
 Vehicle LamboAventador_RedBlack1 : "{CE8A5154AC2B8D55}Prefabs/Vehicles/Wheeled/M998/16Aventador/LamboAventador_RedBlack.et" {
  coords 1757.793 2 2956.18
@@ -900,6 +1017,9 @@ $grp GenericEntity : "{D6CA7E5B02A11FCA}Prefabs/Vehicles/Wheeled/M923A1/MultiUF6
   coords 1650.571 2 2997.836
  }
 }
+GenericEntity : "{D7766350D6C87B96}Prefabs/Footwear/TNs/TN_OG.et" {
+ coords 1595.147 2 3013.485
+}
 Tree : "{D7DE2249F2945B87}Prefabs/OreResource/HCL_Iron_Ore.et" {
  coords 1630.155 0 2998.671
 }
@@ -916,6 +1036,9 @@ GameEntity : "{E44990162EBC47B7}Prefabs/Characters/Uniforms/Jacket_M88_base.et" 
 }
 Vehicle FordExplorer_Red1 : "{E4E9175AECB9A053}Prefabs/Vehicles/Wheeled/M998/11FordExplorer/FordExplorer_Red.et" {
  coords 1745.529 2 2957.643
+}
+GenericEntity : "{E80A67B3534C08C2}Prefabs/Footwear/Jordan4/Jordan4_MilBlack.et" {
+ coords 1591.923 2 3013.299
 }
 $grp GenericEntity : "{E8686B0D2139DE38}Prefabs/Vehicles/Wheeled/M923A1/UF6Barrel.et" {
  {
@@ -941,6 +1064,9 @@ Vehicle ChevyTahoe_ChromeGold1 : "{EF4968DE893163CE}Prefabs/Vehicles/Wheeled/M99
 Vehicle UH1H_civ_base1 : "{EF4E5000BC4F6791}Prefabs/Vehicles/Helicopters/UH1H/UH1H_civ_base.et" {
  coords 1805.844 2 2925.472
 }
+GenericEntity : "{F0C1424E37116B76}Prefabs/Footwear/Jordan4/Jordan4_Travis.et" {
+ coords 1593.172 2 3013.208
+}
 GenericEntity : "{F27393F566928E15}Prefabs/Items/Ore/HCL_Ore_Mithrii.et" {
  coords 1631.192 2 2997.896
 }
@@ -957,6 +1083,9 @@ $grp GenericEntity : "{F7CA3036B3F0C4F7}Prefabs/Items/Food/HCL_Food_Tomatoes.et"
 }
 Vehicle JackalTruck_Black1 : "{F7DFC220F9EF1FC1}Prefabs/Vehicles/Wheeled/Ural4320/JackalTruck_Black.et" {
  coords 1790.016 2 2956.75
+}
+GameEntity : "{FA8171458ADBCCD7}Prefabs/HeadGear/MotoGoggles/Motocross_goggles_Black.et" {
+ coords 1589.221 2 3011.803
 }
 GenericEntity : "{FDA7B6630DB87991}Prefabs/Items/Equipment/Backpacks/Backpack_M70_Swiss.et" {
  coords 1616.829 2 2985.15
