@@ -7,9 +7,6 @@ SCR_FactionManager FactionManager_USxUSSR1 : "{589540B35EBA8CDC}Prefabs/MP/Manag
 SCR_LoadoutManager : "{4B5F60AAFBBE9DC3}Prefabs/MP/Managers/Loadouts/HCL_LoadoutManager_Base.et" {
  coords 1643.66 3.777 1696.59
 }
-SCR_SpawnPoint : "{5A2220DD0C16958B}Prefabs/MP/Spawning/SpawnPoint_US.et" {
- coords 1656.175 2.751 1691.475
-}
 GenericEntity : "{6258C73D3F60EDF9}Prefabs/Items/Food/HCL_Food_Base.et" {
  coords 1652.349 2.908 1690.695
 }

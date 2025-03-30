@@ -1,14 +1,274 @@
-GenericEntity {
- components {
-  MeshObject "{64FB1CD7555D61E1}" {
-   Object "{25D216B7677A605B}Prefabs/Vehicles/Wheeled/M923A1/Plane.xob"
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{64FB1CD7555D61E1}" {
+    Object "{25D216B7677A605B}Prefabs/Vehicles/Wheeled/M923A1/Plane.xob"
+   }
   }
+  coords 1643.048 23.145 2952.696
+  angleX 89.692
+  angleY -1.856
+  angleZ -180
+  scale 18.526
  }
- coords 1643.048 23.145 2952.696
- angleX 89.692
- angleY -1.856
- angleZ -180
- scale 18.526
+ {
+  components {
+   MeshObject "{64FCAC17361E616F}" {
+    Object "{3F9D2521AB3659E4}Prefabs/Props/Vegetation/SM_Blueberries_A/SM_Blueberries_A.xob"
+   }
+  }
+  coords 1635.92 2 2988.435
+  scale 0.268
+ }
+ {
+  components {
+   MeshObject "{64FCAC153BF64EBF}" {
+    Object "{31EAB53BE5E5498E}Prefabs/Props/Vegetation/SM_Broccoli_A/SM_Broccoli_A.xob"
+   }
+  }
+  coords 1637.031 2 2988.62
+ }
+ {
+  components {
+   MeshObject "{64FCAC1ABE29BA4F}" {
+    Object "{50089AA666258F12}Prefabs/Props/Vegetation/SM_Cabbage_A/SM_Cabbage_A.xob"
+   }
+  }
+  coords 1638.788 2 2988.858
+ }
+ {
+  components {
+   MeshObject "{64FCAC1A0E8608EB}" {
+    Object "{5C633CB81C94B099}Prefabs/Props/Vegetation/SM_Cacao_A/SM_Cacao_A.xob"
+   }
+  }
+  coords 1642.882 2 2989.59
+ }
+ {
+  components {
+   MeshObject "{64FCAC1F81781F46}" {
+    Object "{46C600789CABEA2E}Prefabs/Props/Vegetation/SM_Coffee_A/SM_Coffee_A.xob"
+   }
+  }
+  coords 1651.331 2 2990.084
+ }
+ {
+  components {
+   MeshObject "{64FCAC1F2CEC1D86}" {
+    Object "{F5EBD5979686F6B1}Prefabs/Props/Vegetation/SM_Corn_A/SM_Corn_A.xob"
+   }
+  }
+  coords 1656.066 2 2990.381
+ }
+ {
+  components {
+   MeshObject "{64FCAC1C0D540764}" {
+    Object "{615631A2A64D565C}Prefabs/Props/Vegetation/SM_Cotton_A/SM_Cotton_A.xob"
+   }
+  }
+  coords 1659.152 2 2990.951
+ }
+ {
+  components {
+   MeshObject "{64FCAC1DF6D171E6}" {
+    Object "{DF9C69BB607B4923}Prefabs/Props/Vegetation/SM_Cucumber_A/SM_Cucumber_A.xob"
+   }
+  }
+  coords 1662.528 2 2991.021
+ }
+ {
+  components {
+   MeshObject "{64FCAC025A362D35}" {
+    Object "{0853C1F7D0CA6E81}Prefabs/Props/Vegetation/SM_Eggplant_A/SM_Eggplant_A.xob"
+   }
+  }
+  coords 1665.209 2 2991.201
+ }
+ {
+  components {
+   MeshObject "{64FCAC03E0D14FE9}" {
+    Object "{33E0F2832AE5EA8C}Prefabs/Props/Vegetation/SM_Garlic_A/SM_Garlic_A.xob"
+   }
+  }
+  coords 1666.548 2 2991.331
+ }
+ {
+  components {
+   MeshObject "{64FCAC00B53BD435}" {
+    Object "{22F7516978A93AB3}Prefabs/Props/Vegetation/SM_Grape_A/SM_Grape_A.xob"
+   }
+  }
+  coords 1668.872 2 2991.734
+ }
+ {
+  components {
+   MeshObject "{64FCAC01E5C92F70}" {
+    Object "{6BC0279E6D6B156C}Prefabs/Props/Vegetation/SM_Hemp_B/SM_Hemp_B.xob"
+   }
+  }
+  coords 1670.721 2 2991.552
+  angleY 75.598
+ }
+ {
+  components {
+   MeshObject "{64FCAC01E5C92F70}" {
+    Object "{6BC0279E6D6B156C}Prefabs/Props/Vegetation/SM_Hemp_B/SM_Hemp_B.xob"
+   }
+  }
+  coords 1670.374 2 2990.663
+ }
+ {
+  components {
+   MeshObject "{64FCAC01E5C92F70}" {
+    Object "{6BC0279E6D6B156C}Prefabs/Props/Vegetation/SM_Hemp_B/SM_Hemp_B.xob"
+   }
+  }
+  coords 1671.721 2 2990.978
+  angleY 52.394
+ }
+ {
+  components {
+   MeshObject "{64FCAC01E5C92F70}" {
+    Object "{6BC0279E6D6B156C}Prefabs/Props/Vegetation/SM_Hemp_B/SM_Hemp_B.xob"
+   }
+  }
+  coords 1671.277 2 2990.309
+  angleY -46.846
+ }
+ {
+  components {
+   MeshObject "{64FCAC01E5C92F70}" {
+    Object "{6BC0279E6D6B156C}Prefabs/Props/Vegetation/SM_Hemp_B/SM_Hemp_B.xob"
+   }
+  }
+  coords 1672.424 2 2990.345
+  angleY -39.073
+ }
+ {
+  components {
+   MeshObject "{64FCAC01E5C92F70}" {
+    Object "{6BC0279E6D6B156C}Prefabs/Props/Vegetation/SM_Hemp_B/SM_Hemp_B.xob"
+   }
+  }
+  coords 1671.514 2 2989.386
+  angleY -32.747
+ }
+ {
+  components {
+   MeshObject "{64FCAC01E5C92F70}" {
+    Object "{6BC0279E6D6B156C}Prefabs/Props/Vegetation/SM_Hemp_B/SM_Hemp_B.xob"
+   }
+  }
+  coords 1670.306 2 2990.049
+  angleY -57.753
+ }
+ {
+  components {
+   MeshObject "{64FCAC06419DA3B4}" {
+    Object "{F4C9687155E0EFF8}Prefabs/Props/Vegetation/SM_Onion/SM_Onion_A.xob"
+   }
+  }
+  coords 1675.309 2 2991.586
+ }
+ {
+  components {
+   MeshObject "{64FCAC07CF60FCAC}" {
+    Object "{5DE199932582A27B}Prefabs/Props/Vegetation/SM_Peas_A/SM_Peas_A.xob"
+   }
+  }
+  coords 1677.066 2 2991.647
+ }
+ {
+  components {
+   MeshObject "{64FCAC072783BC18}" {
+    Object "{4DBEBBB91C22B43E}Prefabs/Props/Vegetation/SM_Pepper_A/SM_Pepper_A.xob"
+   }
+  }
+  coords 1678.126 2 2991.678
+ }
+ {
+  components {
+   MeshObject "{64FCAC04DFB2BF48}" {
+    Object "{DD58583F7C81466B}Prefabs/Props/Buildings/SM_Planter/SM_Planter_A_02.xob"
+   }
+  }
+  coords 1685.058 2 2993.138
+ }
+ {
+  components {
+   MeshObject "{64FCAC04DF140E41}" {
+    Object "{48D17EE9358D2450}Prefabs/Props/Buildings/SM_Planter/SM_Planter_D_02.xob"
+   }
+  }
+  coords 1684.958 2 2987.317
+ }
+ {
+  components {
+   MeshObject "{64FCAC0A9E61D39A}" {
+    Object "{F0AAF2AE36AEE293}Prefabs/Props/Vegetation/SM_Potato_A/SM_Potato_A.xob"
+   }
+  }
+  coords 1691.134 2 2987.206
+ }
+ {
+  components {
+   MeshObject "{64FCAC0AE9950910}" {
+    Object "{9587E4E4EAB4D97F}Prefabs/Props/Vegetation/SM_Pumpkin_A/SM_Pumpkin_A.xob"
+   }
+  }
+  coords 1693.193 2 2987.371
+ }
+ {
+  components {
+   MeshObject "{64FCAC0B6646DECE}" {
+    Object "{4659B4A9F50348C0}Prefabs/Props/Vegetation/SM_Strawberry_A/SM_Strawberry_A.xob"
+   }
+  }
+  coords 1698.068 2 2987.449
+ }
+ {
+  components {
+   MeshObject "{64FCAC082DE09B23}" {
+    Object "{C9CAFFB0E725016A}Prefabs/Props/Vegetation/SM_Tomatoes_A/SM_Tomatoes_A.xob"
+   }
+  }
+  coords 1699.784 2 2987.364
+ }
+ {
+  components {
+   MeshObject "{64FCAC087ECCA9B4}" {
+    Object "{3A8113A77BE575A1}Prefabs/Props/Vegetation/SM_Turnip/SM_Turnip_A.xob"
+   }
+  }
+  coords 1702.679 2 2987.413
+ }
+ {
+  components {
+   MeshObject "{64FCAC09A0CD7508}" {
+    Object "{E324252DE766C8BB}Prefabs/Props/Vegetation/SM_Watermelon_A/SM_Watermelon_A.xob"
+   }
+  }
+  coords 1705.515 2 2987.654
+ }
+ {
+  components {
+   MeshObject "{64FCAC095476BA02}" {
+    Object "{5534C9A1F6A78C08}Prefabs/Props/Vegetation/SM_Zucchini_A/SM_Zucchini_A.xob"
+   }
+  }
+  coords 1709.684 2 2989.161
+ }
+}
+$grp GenericEntity : "{004A6D2165E9ADD0}Prefabs/Items/Food/HCL_Food_Cucumber.et" {
+ {
+  coords 1662.642 2 2988.744
+ }
+ {
+  coords 1662.278 2 2988.624
+ }
+ {
+  coords 1662.409 2 2988.93
+ }
 }
 $grp GenericEntity : "{0184BE4DCEC50670}Prefabs/Vehicles/Wheeled/M923A1/UO2Barrel.et" {
  {
@@ -17,6 +277,55 @@ $grp GenericEntity : "{0184BE4DCEC50670}Prefabs/Vehicles/Wheeled/M923A1/UO2Barre
  {
   coords 1641.775 3.13 2961.139
  }
+}
+$grp GenericEntity : "{0255164760309536}Prefabs/Items/Food/HCL_Food_Watermelon.et" {
+ {
+  coords 1706.431 2 2985.384
+ }
+ {
+  components {
+   InventoryItemComponent "{5222EB4D0C73006B}" {
+    Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
+     m_Size SLOT_1x1
+    }
+   }
+  }
+  coords 1705.94 2 2985.846
+ }
+ {
+  coords 1705.429 2 2984.898
+ }
+}
+Vehicle Ford_F700_Black1 : "{0272ED965724BF65}Prefabs/Vehicles/Wheeled/M923A1/91FordF700/Ford_F700_Black.et" {
+ coords 1710.654 2 2962.032
+}
+$grp GenericEntity : "{0323E92D9E6E9F4D}Prefabs/Items/Food/HCL_Food_Corn.et" {
+ {
+  coords 1656.215 2 2988.283
+ }
+ {
+  coords 1656.016 2 2988.159
+ }
+ {
+  coords 1655.992 2 2988.659
+ }
+}
+$grp GenericEntity : "{05B8C0C07613C422}Prefabs/Items/Food/HCL_Food_Garlic.et" {
+ {
+  coords 1666.636 2 2989.709
+ }
+ {
+  coords 1666.411 2 2989.672
+ }
+ {
+  coords 1666.548 2 2989.492
+ }
+}
+GenericEntity : "{06B68C58B72EAAC6}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium.et" {
+ coords 1615.49 2 2985.433
+}
+GameEntity : "{06BC3F18B47799AE}Prefabs/Characters/Uniforms/Pants_M70.et" {
+ coords 1614.474 2 2982.038
 }
 $grp GenericEntity : "{0AB8208068CD21DE}Prefabs/Vehicles/Wheeled/M923A1/CargoRods.et" {
  {
@@ -27,6 +336,26 @@ $grp GenericEntity : "{0AB8208068CD21DE}Prefabs/Vehicles/Wheeled/M923A1/CargoRod
   angleY 178.02
  }
 }
+Vehicle Silverado01_Red1 : "{0C53A8DFF9C8890B}Prefabs/Vehicles/Wheeled/M998/01Silverado/Silverado01_Red.et" {
+ coords 1727.925 2 2959.122
+}
+Vehicle HondaCivicTypeR_Green1 : "{1114E3E7F0E2F12B}Prefabs/Vehicles/Wheeled/S105/97CivicTypeR/HondaCivicTypeR_Green.et" {
+ coords 1784.686 2 2955.43
+}
+$grp GenericEntity : "{136715E2A9BF43B9}Prefabs/Items/Food/HCL_Food_Pepper.et" {
+ {
+  coords 1678.403 2.178 2990.531
+ }
+ {
+  coords 1678.305 2.153 2990.478
+ }
+ {
+  coords 1678.402 2.128 2990.439
+ }
+}
+Vehicle ArmoredTruck_Police_Black1 : "{15D8ED3ED37D91DA}Prefabs/Vehicles/Wheeled/M923A1/SWATtruck/ArmoredTruck_Police_Black.et" {
+ coords 1716.446 2 2960.495
+}
 $grp GenericEntity : "{16F04910FBEAC016}Prefabs/Vehicles/Wheeled/M923A1/MultiEnrichedUF6.et" {
  {
   coords 1647.121 2 2997.691
@@ -35,6 +364,9 @@ $grp GenericEntity : "{16F04910FBEAC016}Prefabs/Vehicles/Wheeled/M923A1/MultiEnr
   coords 1637.583 2 2960.393
   angleX 0.491
  }
+}
+Vehicle DodgeChargerSRT_HellcatRedeye_Police_WhiteBlack1 : "{1B7059870D4E50C0}Prefabs/Vehicles/Wheeled/M998/22ChargerHellcat/DodgeChargerSRT_HellcatRedeye_Police_WhiteBlack.et" {
+ coords 1693.469 2 2964.505
 }
 GenericEntity : "{1F9C02ADF503991D}Prefabs/Items/Ore/HCL_Ore_copper.et" {
  coords 1628.281 2 2998.037
@@ -46,6 +378,56 @@ $grp GenericEntity : "{262EBA9EF431A07D}Prefabs/Vehicles/Wheeled/M923A1/MultiUra
  {
   coords 1646.324 2 2960.219
   angleY -178.807
+ }
+}
+$grp GenericEntity : "{2675F3B242AB4823}Prefabs/Items/Food/HCL_Food_Cauliflower.et" {
+ {
+  coords 1647.336 2 2988.67
+ }
+ {
+  coords 1646.796 2 2988.203
+ }
+ {
+  coords 1647.37 2 2988.125
+ }
+}
+$grp GenericEntity : "{27C9191BA491CF02}Prefabs/Items/Food/HCL_Food_SM_Broccoli.et" {
+ {
+  coords 1637.187 2 2987.925
+ }
+ {
+  coords 1636.89 2 2988.056
+ }
+ {
+  coords 1636.963 2 2987.7
+ }
+}
+Vehicle DodgeCharger_10_Grey1 : "{283768C4733F97D8}Prefabs/Vehicles/Wheeled/M998/10Charger/DodgeCharger_10_Grey.et" {
+ coords 1740.768 2 2957.477
+}
+Vehicle DodgeCharger_06_Grey1 : "{306E2D7803179378}Prefabs/Vehicles/Wheeled/M998/06Charger/DodgeCharger_06_Grey.et" {
+ coords 1731.891 2 2958.632
+}
+$grp GenericEntity : "{333CE99EE37F6F88}Prefabs/Items/Food/HCL_Food_Eggplant.et" {
+ {
+  coords 1665.511 2.253 2989.385
+ }
+ {
+  coords 1665.251 2.274 2989.481
+ }
+ {
+  coords 1665.262 2.195 2989.303
+ }
+}
+$grp GenericEntity : "{337EB1C248849C9D}Prefabs/Items/Food/HCL_Food_SM_Blueberries.et" {
+ {
+  coords 1635.874 2 2987.808
+ }
+ {
+  coords 1635.831 2 2987.59
+ }
+ {
+  coords 1636.042 2 2987.693
  }
 }
 $grp Vehicle : "{3446796595540715}Prefabs/Vehicles/Wheeled/M923A1/M923A1_Cargo.et" {
@@ -75,6 +457,9 @@ $grp Vehicle : "{3446796595540715}Prefabs/Vehicles/Wheeled/M923A1/M923A1_Cargo.e
     AttachmentSlot InventoryStorageSlot FuelRods {
      Prefab "{16F04910FBEAC016}Prefabs/Vehicles/Wheeled/M923A1/MultiEnrichedUF6.et"
     }
+   }
+   RplComponent "{517AACDFA78F5EE7}" {
+    AutoHierarchy 1
    }
   }
   coords 1643.579 2 2970.422
@@ -132,8 +517,89 @@ $grp Vehicle : "{3446796595540715}Prefabs/Vehicles/Wheeled/M923A1/M923A1_Cargo.e
 GenericEntity : "{35D150DDFECC7C65}Prefabs/Items/Ingots/HCL_Ingot_Base.et" {
  coords 1630.112 2 2997.292
 }
+Vehicle Mi8MT_unarmed_civ_base1 : "{366EA0B41474A7F8}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_unarmed_civ_base.et" {
+ coords 1780.03 2 2929.275
+}
+$grp GenericEntity : "{3876CEFC98B29811}Prefabs/Items/Food/HCL_Food_Strawberry.et" {
+ {
+  coords 1698.142 2.138 2986.002
+ }
+ {
+  coords 1698.051 2.117 2985.971
+ }
+ {
+  coords 1698.113 2.119 2985.891
+ }
+}
+$grp GenericEntity : "{38C8C7CF241E86AB}Prefabs/Items/Food/HCL_Food_Grape.et" {
+ {
+  coords 1669.099 2 2990.297
+  angleZ -95
+ }
+ {
+  coords 1668.836 2.333 2990.415
+ }
+ {
+  coords 1668.941 2.291 2990.295
+ }
+}
+Vehicle ChevyTahoe_Police_Black1 : "{39D26D9669C4E590}Prefabs/Vehicles/Wheeled/M998/15ChevyTahoe/ChevyTahoe_Police_Black.et" {
+ coords 1674.216 2 2965.735
+}
+$grp GenericEntity : "{4245E25C8105A503}Prefabs/Items/Food/HCL_Food_Coffee.et" {
+ {
+  coords 1651.255 2 2987.2
+ }
+ {
+  coords 1651.376 2 2987.231
+ }
+ {
+  coords 1651.183 2 2987.505
+ }
+}
+Vehicle DodgeChargerSRT_HellcatRedeye_Police_BlackWhite1 : "{446F895FDCBA5F07}Prefabs/Vehicles/Wheeled/M998/22ChargerHellcat/DodgeChargerSRT_HellcatRedeye_Police_BlackWhite.et" {
+ coords 1689.833 2 2964.74
+}
+$grp GenericEntity : "{46FB1CCB08F0C2F0}Prefabs/Items/Food/HCL_Food_Turnip.et" {
+ {
+  coords 1703.134 2 2985.785
+ }
+ {
+  coords 1702.665 2 2985.742
+ }
+ {
+  coords 1702.874 2 2986.106
+ }
+}
+GenericEntity : "{4805E67E2AE30F8D}Prefabs/Items/Equipment/Backpacks/Backpack_Medical_M5.et" {
+ coords 1615.565 2 2987.046
+}
+Vehicle AudiR8WB_Orange1 : "{4863037565498AD4}Prefabs/Vehicles/Wheeled/M998/08AudiR8WB/AudiR8WB_Orange.et" {
+ coords 1736.339 2 2958.137
+}
 GenericEntity : "{4967716693623EF4}Prefabs/Items/Ingots/HCL_Ingot_gold.et" {
  coords 1629.148 2 2997.31
+}
+Vehicle LamboAventador_RedCarbon1 : "{4A704DE4F9ADBFAB}Prefabs/Vehicles/Wheeled/M998/16Aventador/LamboAventador_RedCarbon.et" {
+ coords 1753.849 2 2956.537
+}
+$grp GenericEntity : "{4A7B5E701A1B14E1}Prefabs/Items/Food/HCL_Food_Pumpkin.et" {
+ {
+  coords 1693.585 2.436 2985.801
+ }
+ {
+  components {
+   InventoryItemComponent "{5222EB4D0C73006B}" {
+    Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
+     m_Size SLOT_1x1
+    }
+   }
+  }
+  coords 1692.839 2.479 2985.463
+ }
+ {
+  coords 1693.412 2.393 2985.199
+ }
 }
 GenericEntity : "{4C4DC886B0293BDC}Prefabs/Items/Ore/HCL_Ore_silver.et" {
  coords 1632.406 2 2997.907
@@ -141,13 +607,41 @@ GenericEntity : "{4C4DC886B0293BDC}Prefabs/Items/Ore/HCL_Ore_silver.et" {
 GenericEntity : "{4C53C4AE6B422B68}Prefabs/Items/Ore/HCL_Ore_gold.et" {
  coords 1629.2 2 2997.846
 }
+$grp GenericEntity : "{4E38BA1477CC18C6}Prefabs/Items/Food/HCL_Food_Mushroom.et" {
+ {
+  coords 1689.591 2 2986.282
+ }
+ {
+  coords 1689.796 2 2986.109
+ }
+ {
+  coords 1689.586 2 2986.124
+ }
+}
 SCR_SpawnPoint : "{4FEA25583D0975F7}Prefabs/MP/Spawning/SpawnPoint_USSR.et" {
  coords 1614.635 2.46 2978.894
  angleY 68.18
 }
+Vehicle DodgeCharger_10_Black_Police1 : "{53142516E99D9C03}Prefabs/Vehicles/Wheeled/M998/10Charger/DodgeCharger_10_Black_Police.et" {
+ coords 1686.372 2 2965.373
+}
 SCR_SpawnPoint : "{5A2220DD0C16958B}Prefabs/MP/Spawning/SpawnPoint_US.et" {
  coords 1615.344 2.479 2977.427
  angleY 83.043
+}
+$grp GenericEntity : "{5C4CA1653DF8B997}Prefabs/Items/Food/HCL_Food_Peas.et" {
+ {
+  coords 1677.465 2 2990.291
+ }
+ {
+  coords 1677.255 2 2990.387
+ }
+ {
+  coords 1677.307 2 2990.296
+ }
+}
+GenericEntity : "{5C5C6EE05EE2FF1A}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium_assembled.et" {
+ coords 1615.692 2 2985.875
 }
 $grp GenericEntity : "{5D66454327251DE0}Prefabs/Items/Food/HCL_Food_Peach.et" {
  {
@@ -177,6 +671,42 @@ $grp GenericEntity : "{612ACA243386D5AB}Prefabs/Vehicles/Wheeled/M923A1/Enriched
   coords 1637.45 3.11 2961.141
  }
 }
+$grp GenericEntity : "{620599ECE75CFE03}Prefabs/Items/Food/HCL_Food_SM_Cabbage.et" {
+ {
+  coords 1639.416 2 2987.695
+ }
+ {
+  coords 1638.602 2 2987.775
+ }
+ {
+  coords 1638.974 2 2987.314
+ }
+}
+Vehicle NissanGTR_R35_White1 : "{649027FB091DDEAA}Prefabs/Vehicles/Wheeled/M998/17R35GTR/NissanGTR_R35_White.et" {
+ coords 1762.331 2 2955.45
+}
+$grp GenericEntity : "{664CCA28D831CFA9}Prefabs/Items/Food/HCL_Food_Onion.et" {
+ {
+  coords 1675.518 2 2990.209
+ }
+ {
+  coords 1675.217 2 2990.147
+ }
+ {
+  coords 1675.324 2 2989.896
+ }
+}
+$grp GenericEntity : "{6653BD107211A128}Prefabs/Items/Food/HCL_Food_Cacao.et" {
+ {
+  coords 1643.056 2 2988.05
+ }
+ {
+  coords 1642.653 2 2988.062
+ }
+ {
+  coords 1642.809 2 2987.917
+ }
+}
 $grp Tree : "{79DCF8190AE25E68}Prefabs/GatherableResourcePrefabs/Vegetation/Tree/HCL_PeachTree.et" {
  {
   coords 1621.278 0 2998.577
@@ -186,15 +716,46 @@ $grp Tree : "{79DCF8190AE25E68}Prefabs/GatherableResourcePrefabs/Vegetation/Tree
   coords 1616.793 0 2998.63
  }
 }
+Vehicle UH1H_civ_livery_v1 : "{7A29940A71EF5F5C}Prefabs/Vehicles/Helicopters/UH1H/UH1H_civ_livery_v1.et" {
+ coords 1821.223 2 2923.606
+}
 Tree : "{7D7600CC7D974849}Prefabs/OreResource/HCL_Copper_Ore.et" {
  coords 1628.313 0 2998.819
 }
-$grp Tree : "{86BF87FA94FAB72C}Prefabs/OreResource/HCL_Mithrii_Ore.et" {
+Vehicle ChevyTahoe_Police_BlackWhite1 : "{8053858EC29C0161}Prefabs/Vehicles/Wheeled/M998/15ChevyTahoe/ChevyTahoe_Police_BlackWhite.et" {
+ coords 1678.848 2 2965.188
+}
+$grp GenericEntity : "{8152BE0F9B67620F}Prefabs/Items/Food/HCL_Food_Cotton.et" {
  {
-  coords 1659.843 -0 2960.499
+  coords 1659.345 2 2988.6
  }
  {
-  coords 1631.25 -0 2998.741
+  coords 1659.084 2 2988.287
+ }
+ {
+  coords 1659.02 2 2988.631
+ }
+}
+Vehicle Mi8MT_unarmed_civ_red1 : "{8175FCADFA2FB904}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_unarmed_civ_red.et" {
+ coords 1731.961 2 2932.899
+}
+$grp GenericEntity : "{845718C64E6E8F77}Prefabs/Items/Food/HCL_Food_Zucchini.et" {
+ {
+  coords 1710.174 2 2987.418
+ }
+ {
+  coords 1709.97 2 2987.155
+ }
+ {
+  coords 1709.791 2 2987.487
+ }
+}
+$grp Tree : "{86BF87FA94FAB72C}Prefabs/OreResource/HCL_Mithrii_Ore.et" {
+ {
+  coords 1659.843 0 2960.499
+ }
+ {
+  coords 1631.25 0 2998.741
  }
 }
 GenericEntity : "{88215577A1FFFF57}Prefabs/Items/Ore/HCL_Ore_Iron.et" {
@@ -202,7 +763,7 @@ GenericEntity : "{88215577A1FFFF57}Prefabs/Items/Ore/HCL_Ore_Iron.et" {
 }
 $grp Tree : "{8A096396BFFC4000}Prefabs/OreResource/HCL_Uranium_Ore.et" {
  {
-  coords 1623.28 -0 2959.476
+  coords 1623.28 0 2959.476
  }
  {
   coords 1633.406 0 2998.864
@@ -219,6 +780,17 @@ $grp GenericEntity : "{8FE261706082D696}Prefabs/Vehicles/Wheeled/M923A1/MultiUO2
   coords 1654.348 2 2998.194
  }
 }
+$grp GenericEntity : "{92AC1363167F7B94}Prefabs/Items/Food/HCL_Food_Potato.et" {
+ {
+  coords 1691.095 2 2985.757
+ }
+ {
+  coords 1691.249 2 2986.048
+ }
+ {
+  coords 1691.367 2 2985.687
+ }
+}
 $grp GenericEntity : "{92DB00C46C603EF7}Prefabs/Items/Ingots/HCL_Ingot_Mithrii.et" {
  {
   coords 1657.58 2 2960.492
@@ -229,7 +801,7 @@ $grp GenericEntity : "{92DB00C46C603EF7}Prefabs/Items/Ingots/HCL_Ingot_Mithrii.e
 }
 GenericEntity : "{93919451CF392F16}Prefabs/Props/Furniture/BarTable_ATM.et" {
  coords 1616.531 2 2989.43
- angleY 87.459
+ angleY -57.916
 }
 $grp GenericEntity : "{94D35001FDC95A94}Prefabs/Vehicles/Wheeled/M923A1/YellowcakeBarrel.et" {
  {
@@ -239,8 +811,37 @@ $grp GenericEntity : "{94D35001FDC95A94}Prefabs/Vehicles/Wheeled/M923A1/Yellowca
   coords 1627.337 3.11 2960.647
  }
 }
+GenericEntity : "{95D4766BBE46F23D}Prefabs/Items/Equipment/Backpacks/Backpack_IIFS_FieldPack.et" {
+ coords 1615.563 2 2984.036
+}
+$grp GenericEntity : "{979605FB63F9DDC9}Prefabs/Items/Food/HCL_Food_Carrot.et" {
+ {
+  coords 1645.271 2 2988.802
+ }
+ {
+  coords 1644.952 2 2988.789
+ }
+ {
+  coords 1645.094 2 2989.016
+ }
+}
+Vehicle JackalTruck_Armed_Black1 : "{9DEA731DFC8BFD02}Prefabs/Vehicles/Wheeled/Ural4320/JackalTruck_Armed_Black.et" {
+ coords 1794.385 2 2956.278
+}
+GameEntity : "{9F546CCA2582D16F}Prefabs/Characters/Uniforms/Jacket_M88.et" {
+ coords 1613.514 2 2981.821
+}
+Vehicle BMW_M2Competition_Lime1 : "{A09889B2A20E7540}Prefabs/Vehicles/Wheeled/M998/19M2Comp/BMW_M2Competition_Lime.et" {
+ coords 1766.497 2 2955.815
+}
+Vehicle ArmoredTruck_Black1 : "{A8BD5DECCD4B2634}Prefabs/Vehicles/Wheeled/M923A1/SWATtruck/ArmoredTruck_Black.et" {
+ coords 1722.425 2 2959.624
+}
 Tree : "{A9AA98C6D5D06E68}Prefabs/OreResource/HCL_gold_Ore.et" {
  coords 1629.258 0 2998.651
+}
+Vehicle Mi8MT_unarmed_civ_blue1 : "{AB9ED3A33EE1B630}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_unarmed_civ_blue.et" {
+ coords 1758.325 2 2929.955
 }
 $grp GenericEntity : "{B000C92A035C1DEC}Prefabs/Vehicles/Wheeled/M923A1/CargoFuelRods.et" {
  {
@@ -250,6 +851,18 @@ $grp GenericEntity : "{B000C92A035C1DEC}Prefabs/Vehicles/Wheeled/M923A1/CargoFue
   coords 1650.198 2 2960.383
   angleY -179.945
  }
+}
+Vehicle FordF150_Grey1 : "{B0DF74CC0917EA00}Prefabs/Vehicles/Wheeled/M998/21FordF150/FordF150_Grey.et" {
+ coords 1770.176 2 2956.598
+}
+Vehicle HondaIntegraTypeR_Grey1 : "{B190ECAED2A7FBC0}Prefabs/Vehicles/Wheeled/S105/95IntegraTypeR/HondaIntegraTypeR_Grey.et" {
+ coords 1781.246 2 2956.185
+}
+GameEntity : "{BBA08EC4EC40FA94}Prefabs/Characters/Uniforms/Jacket_M70.et" {
+ coords 1613.724 2 2980.949
+}
+Vehicle DodgeChargerSRT_HellcatRedeye_Yellow1 : "{C036849662D84883}Prefabs/Vehicles/Wheeled/M998/22ChargerHellcat/DodgeChargerSRT_HellcatRedeye_Yellow.et" {
+ coords 1774.27 2 2955.824
 }
 $grp GenericEntity : "{C40AA15E3ACF1209}Prefabs/Items/Ore/HCL_Ore_Uranium.et" {
  {
@@ -262,8 +875,21 @@ $grp GenericEntity : "{C40AA15E3ACF1209}Prefabs/Items/Ore/HCL_Ore_Uranium.et" {
 GenericEntity : "{C4DA771017CEBA59}Prefabs/Items/Ingots/HCL_Ingot_copper.et" {
  coords 1628.235 2 2997.344
 }
+Vehicle ChevyDumont_Ambulance1 : "{C741B09A59B43EC5}Prefabs/Vehicles/Wheeled/M998/92ChevyDumont/ChevyDumont_Ambulance.et" {
+ coords 1777.914 2 2956.572
+ angleY 0
+}
 Tree : "{CAC42BF013F18CB3}Prefabs/OreResource/HCL_silver_Ore.et" {
  coords 1632.343 0 2998.779
+}
+Vehicle LamboAventador_RedBlack1 : "{CE8A5154AC2B8D55}Prefabs/Vehicles/Wheeled/M998/16Aventador/LamboAventador_RedBlack.et" {
+ coords 1757.793 2 2956.18
+}
+Vehicle JackalTruck_Armed1 : "{D3017288592F8976}Prefabs/Vehicles/Wheeled/Ural4320/JackalTruck_Armed.et" {
+ coords 1798.629 2 2957.413
+}
+GenericEntity : "{D3FCFE5148A78C43}Prefabs/MP/CombatOps/AmmoBoxes/ArsenalBox_USSR_CO.et" {
+ coords 1614.724 2 2994.235
 }
 $grp GenericEntity : "{D6CA7E5B02A11FCA}Prefabs/Vehicles/Wheeled/M923A1/MultiUF6.et" {
  {
@@ -285,6 +911,12 @@ $grp GenericEntity : "{D9DE0E379939B689}Prefabs/Vehicles/Wheeled/M923A1/MultiYel
   coords 1657.694 2 2998.123
  }
 }
+GameEntity : "{E44990162EBC47B7}Prefabs/Characters/Uniforms/Jacket_M88_base.et" {
+ coords 1614.039 2 2982.997
+}
+Vehicle FordExplorer_Red1 : "{E4E9175AECB9A053}Prefabs/Vehicles/Wheeled/M998/11FordExplorer/FordExplorer_Red.et" {
+ coords 1745.529 2 2957.643
+}
 $grp GenericEntity : "{E8686B0D2139DE38}Prefabs/Vehicles/Wheeled/M923A1/UF6Barrel.et" {
  {
   coords 1650.398 2 2994.883
@@ -294,6 +926,38 @@ $grp GenericEntity : "{E8686B0D2139DE38}Prefabs/Vehicles/Wheeled/M923A1/UF6Barre
   angleX 0.491
  }
 }
+Vehicle JackalTruck1 : "{E8BCD2BC5C2E3A5E}Prefabs/Vehicles/Wheeled/Ural4320/JackalTruck.et" {
+ coords 1802.423 2 2957.833
+}
+Vehicle DodgeCharger_06_Police1 : "{EAC32E1E288B7487}Prefabs/Vehicles/Wheeled/M998/06Charger/DodgeCharger_06_Police.et" {
+ coords 1682.467 2 2964.628
+}
+Vehicle Isuzu_NPR_Grey1 : "{EBD4F172804C27D2}Prefabs/Vehicles/Wheeled/M923A1/07IsuzuNPR/Isuzu_NPR_Grey.et" {
+ coords 1702.777 2 2962.277
+}
+Vehicle ChevyTahoe_ChromeGold1 : "{EF4968DE893163CE}Prefabs/Vehicles/Wheeled/M998/15ChevyTahoe/ChevyTahoe_ChromeGold.et" {
+ coords 1749.445 2 2956.976
+}
+Vehicle UH1H_civ_base1 : "{EF4E5000BC4F6791}Prefabs/Vehicles/Helicopters/UH1H/UH1H_civ_base.et" {
+ coords 1805.844 2 2925.472
+}
 GenericEntity : "{F27393F566928E15}Prefabs/Items/Ore/HCL_Ore_Mithrii.et" {
  coords 1631.192 2 2997.896
+}
+$grp GenericEntity : "{F7CA3036B3F0C4F7}Prefabs/Items/Food/HCL_Food_Tomatoes.et" {
+ {
+  coords 1699.952 2.091 2986.378
+ }
+ {
+  coords 1699.826 2.071 2986.341
+ }
+ {
+  coords 1699.925 2.078 2986.216
+ }
+}
+Vehicle JackalTruck_Black1 : "{F7DFC220F9EF1FC1}Prefabs/Vehicles/Wheeled/Ural4320/JackalTruck_Black.et" {
+ coords 1790.016 2 2956.75
+}
+GenericEntity : "{FDA7B6630DB87991}Prefabs/Items/Equipment/Backpacks/Backpack_M70_Swiss.et" {
+ coords 1616.829 2 2985.15
 }
