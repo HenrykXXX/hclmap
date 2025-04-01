@@ -423,9 +423,6 @@ $grp GenericEntity : "{27C9191BA491CF02}Prefabs/Items/Food/HCL_Food_SM_Broccoli.
 Vehicle DodgeCharger_10_Grey1 : "{283768C4733F97D8}Prefabs/Vehicles/Wheeled/M998/10Charger/DodgeCharger_10_Grey.et" {
  coords 1740.768 2 2957.477
 }
-Vehicle UAZ452_ambulance1 : "{28E08EEDBDE7B89B}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_ambulance.et" {
- coords 1711.067 2 2932.123
-}
 GameEntity : "{29507BC8C1B417F4}Prefabs/Uniforms/Pants/slimpants/slimpants.et" {
  coords 1595.05 2 3011.949
 }
@@ -575,9 +572,6 @@ $grp GenericEntity : "{38C8C7CF241E86AB}Prefabs/Items/Food/HCL_Food_Grape.et" {
 }
 Vehicle ChevyTahoe_Police_Black1 : "{39D26D9669C4E590}Prefabs/Vehicles/Wheeled/M998/15ChevyTahoe/ChevyTahoe_Police_Black.et" {
  coords 1674.216 2 2965.735
-}
-Vehicle M997_maxi_ambulance_MERDC1 : "{3B1EB924602C7A08}Prefabs/Vehicles/Wheeled/M998/M997_maxi_ambulance_MERDC.et" {
- coords 1715.701 2 2931.655
 }
 $grp GenericEntity : "{4245E25C8105A503}Prefabs/Items/Food/HCL_Food_Coffee.et" {
  {
@@ -979,10 +973,6 @@ $grp GenericEntity : "{C40AA15E3ACF1209}Prefabs/Items/Ore/HCL_Ore_Uranium.et" {
 }
 GenericEntity : "{C4DA771017CEBA59}Prefabs/Items/Ingots/HCL_Ingot_copper.et" {
  coords 1628.235 2 2997.344
-}
-Vehicle ChevyDumont_Ambulance1 : "{C741B09A59B43EC5}Prefabs/Vehicles/Wheeled/M998/92ChevyDumont/ChevyDumont_Ambulance.et" {
- coords 1777.914 2 2956.572
- angleY 0
 }
 GenericEntity : "{C7923961D7235D71}Prefabs/Footwear/TNs/TN_Black.et" {
  coords 1594.531 2 3013.296
