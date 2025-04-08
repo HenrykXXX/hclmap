@@ -4,6 +4,27 @@ SCR_BaseGameMode GameMode_Plain2 : "{1B76F75A3175E85C}Prefabs/MP/Modes/Plain/Gam
 SCR_FactionManager FactionManager_USxUSSR1 : "{589540B35EBA8CDC}Prefabs/MP/Managers/Factions/FactionManager_USxUSSR.et" {
  coords 1655.059 2.764 1690.688
 }
+GenericEntity {
+ components {
+  HCL_SellableItemComponent "{650556F73F22C25F}" {
+   m_iValue 500
+  }
+  ActionsManagerComponent "{650556F718281513}" {
+   ActionContexts {
+    UserActionContext "{650556F712F77433}" {
+     Radius 5
+    }
+   }
+  }
+ }
+ coords 1618.677 2 2992.108
+}
+GenericEntity : "{1347159854A1B680}Prefabs/Props/Furniture/BenchKitchen_01/HCL_BenchKitchen_01_corner_White_Orange.et" {
+ coords 1617.516 2 2989.103
+}
+GenericEntity : "{26D9F1D50F02478C}Prefabs/Props/Furniture/BenchKitchen_01/HCL_BenchKitchen_01_corner_White_OrangeATM.et" {
+ coords 1620.818 2 2987.589
+}
 SCR_LoadoutManager : "{4B5F60AAFBBE9DC3}Prefabs/MP/Managers/Loadouts/HCL_LoadoutManager_Base.et" {
  coords 1643.66 3.777 1696.59
 }
